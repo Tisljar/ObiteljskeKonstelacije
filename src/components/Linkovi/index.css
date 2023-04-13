@@ -10,3 +10,32 @@
     padding-top: 32px;
     padding-bottom: 32px;
 }
+
+.link-table {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.link-table .col-6 {
+    display: table-cell;
+    vertical-align: top;
+    padding: 10px;
+}
+
+.link-table .row {
+    display: table-row;
+}
+
+.link-table .col-4 {
+    display: table-cell;
+    vertical-align: top;
+    padding: 10px;
+}
+/* .link-table h3 {
+    display: table-cell;
+    vertical-align: top;
+    padding: 0 32px;
+} */

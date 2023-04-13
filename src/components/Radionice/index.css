@@ -1,0 +1,11 @@
+.nacrt {
+    max-width: 350px;
+    max-height: 350px;
+}
+
+.nacrt-center {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

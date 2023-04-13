@@ -1,0 +1,23 @@
+.stablo {
+    padding-left: 32px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn-center {
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.img-container {
+    border-radius: 8px;
+}
+
+.fraktal {
+    border-radius: 4px;
+}

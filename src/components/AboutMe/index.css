@@ -22,3 +22,8 @@
     align-items: center;
     justify-content: center;
 }
+
+.mg-left {
+    margin-right: auto;
+    margin-left: 0;
+}

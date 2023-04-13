@@ -8,13 +8,13 @@ const AboutMe = () => {
                 <h1>O meni</h1>
             </div>
             <div className="row">
-                <div className="col-4">
+                <div className="col-md-12 col-td-5 col-4">
                     <div className="image-wrapper mg-center">
                         <img src={ankicaJagnjic} alt="" />
                     </div>
                 </div>
-                <div className="col-1"></div>
-                <div className="col-7">
+                <div className="col-md-12 col-td-1 col-1"></div>
+                <div className="col-md-12 col-td-6 col-7">
                     <div className="about-content">
                         <p>
                             Ankica Jagnjić s konstelacijama se druži više od 10 godina, u početku za svoj osobni razvoj
@@ -23,7 +23,7 @@ const AboutMe = () => {
                             Njemačkoj kod Berta Hellingera i drugih. Dodatno se educirala na seminarima svjetski
                             poznatih konstelatora Stefana Hausnera, Cecilia Fernardez Regoja i Anngwyn St. Just.
                         </p>
-                        <button className="btn-default">Pročitajte moje članke</button>
+                        <button className="btn-default mg-left">Pročitajte moje članke</button>
                     </div>
                 </div>
             </div>
