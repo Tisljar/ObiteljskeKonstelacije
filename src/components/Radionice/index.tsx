@@ -8,7 +8,7 @@ const Radionice = () => {
                 <h1>Radionice i susreti</h1>
             </div>
             <div className="row">
-                <div className="col-6">
+                <div className="col-md-12 col-td-6 col-6">
                     <p>
                         Ukoliko do sada niste imali iskustvo s konstelacijama, vjerojatno imate potrebu dobiti neku
                         vrsta uputa kako se pripremiti za radionicu.
@@ -23,10 +23,11 @@ const Radionice = () => {
                         stvoriti ometanje u kojoj se šapat duše može zagubiti. Zato zadržite otvorenost prema novom, za
                         početak je dovoljno.
                     </p>
-                    <p></p>
+                    <p>Ukoliko želite proučiti dodatni materijal prije radionice možete saznati više:</p>
+                    <button className="btn-default">Saznajte više</button>
                 </div>
-                <div className="col-1"></div>
-                <div className="col-5  nacrt-center">
+                <div className="col-md-12 col-td-1 col-1"></div>
+                <div className="col-md-12 col-td-5 col-5  nacrt-center">
                     <div>
                         <img src={nacrt} alt="" className="nacrt" />
                     </div>

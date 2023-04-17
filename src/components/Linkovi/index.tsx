@@ -8,7 +8,7 @@ const Linkovi = () => {
             </div>
             <div className="row">
                 <div className="link-table">
-                    <div className="col-6">
+                    <div className="col-md-12 col-td-6 col-6">
                         <div className="yt-title">
                             <h3>Prilog u Tv-emisiji: Dobro jutro Hrvatska, povodom seminara Stefana Hausera</h3>
                         </div>
@@ -20,7 +20,7 @@ const Linkovi = () => {
                             allowFullScreen={true}
                         ></iframe>
                     </div>
-                    <div className="col-6">
+                    <div className="col-md-12 col-td-6 col-6">
                         <div className="yt-title">
                             <h3>NA RUBU ZNANOSTI – Sistemske konstelacije, razgovor sa Stefanom Hauserom</h3>
                         </div>

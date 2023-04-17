@@ -248,4 +248,7 @@ h3 {
     .col-md-12 {
         width: calc(12 / 12 * 100%);
     }
+    .md-padding-bottom {
+        margin-bottom: 32px;
+    }
 }
