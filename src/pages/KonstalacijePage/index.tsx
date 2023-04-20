@@ -1,8 +1,9 @@
-import AboutMe from '../../components/AboutMe';
 import Footer from '../../components/Footer';
 import Navbar from '../../components/Navbar';
+import ObiteljskeKonstalacije from '../../components/ObiteljskeKonstalacije';
+import './index.css';
 
-const AboutPage = () => {
+const KonstalacijePage = () => {
     return (
         <div className="page">
             <header>
@@ -10,7 +11,7 @@ const AboutPage = () => {
             </header>
             <main>
                 <div className="flex-container">
-                    <AboutMe />
+                    <ObiteljskeKonstalacije />
                 </div>
             </main>
             <footer>
@@ -20,4 +21,4 @@ const AboutPage = () => {
     );
 };
 
-export default AboutPage;
+export default KonstalacijePage;

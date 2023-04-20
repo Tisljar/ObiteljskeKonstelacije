@@ -2,52 +2,39 @@ import './index.css';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
-    let mobileLinks = 'ul-mobile';
-    const displayMobile = () => {
-        if (mobileLinks === 'ul-mobile') {
-            mobileLinks = 'clicked';
-            console.log('clicked');
-        } else if (mobileLinks === 'clicked') {
-            mobileLinks = 'ul-mobile';
-            console.log('mob');
-        }
-        console.log('hmmm');
-        return;
-    };
     return (
-        <div className="flex-container">
-            <div className="row reverse">
-                <div className="navbar-items">
-                    <ul className="ul-nav">
-                        <Link to="/About">
-                            <li>Moji članci</li>
-                        </Link>
-                        <li>Obiteljske konstalacije</li>
-                        <li>Radionice i susreti</li>
-                        <li>Korisni linkovi</li>
-                        <li>Članci</li>
-                    </ul>
-                </div>
-                <div className="mobile-nav">
-                    <p onClick={displayMobile}>Nešto</p>
-                    <ul className={mobileLinks}>
-                        <li>
-                            <Link to="/About">Moji članci</Link>
-                        </li>
-                        <li>Obiteljske konstalacije</li>
-                        <li>Radionice i susreti</li>
-                        <li>Korisni linkovi</li>
-                    </ul>
-                </div>
-                <div>
-                    <Link to="/">
-                        <ul className="ul-nav">
-                            <li>Logo</li>
-                        </ul>
+        <section className="top-nav">
+            <Link to={'/'}>
+                <div>Logo</div>
+            </Link>
+            <input type="checkbox" id="menu-toggle" />
+            <label htmlFor="menu-toggle" className="menu-button-container">
+                <div className="menu-button"></div>
+            </label>
+            <ul className="menu">
+                <li>
+                    <Link to={'/about'} className="link">
+                        Moji članci
                     </Link>
-                </div>
-            </div>
-        </div>
+                </li>
+
+                <li>
+                    <Link to={'/konstalacije'} className="link">
+                        Obiteljske konstalacije
+                    </Link>
+                </li>
+                <li>
+                    <Link to={'/radionice'} className="link">
+                        Radionice i susreti
+                    </Link>
+                </li>
+                <li>
+                    <Link to={'/linkovi'} className="link">
+                        Korisni linkovi
+                    </Link>
+                </li>
+            </ul>
+        </section>
     );
 };
 

@@ -1,8 +1,10 @@
-import AboutMe from '../../components/AboutMe';
+import './index.css';
+
 import Footer from '../../components/Footer';
 import Navbar from '../../components/Navbar';
+import Linkovi from '../../components/Linkovi';
 
-const AboutPage = () => {
+const LinkoviPage = () => {
     return (
         <div className="page">
             <header>
@@ -10,7 +12,7 @@ const AboutPage = () => {
             </header>
             <main>
                 <div className="flex-container">
-                    <AboutMe />
+                    <Linkovi />
                 </div>
             </main>
             <footer>
@@ -20,4 +22,4 @@ const AboutPage = () => {
     );
 };
 
-export default AboutPage;
+export default LinkoviPage;

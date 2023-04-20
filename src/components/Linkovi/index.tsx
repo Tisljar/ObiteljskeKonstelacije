@@ -36,7 +36,7 @@ const Linkovi = () => {
                 </div>
                 <div className="row">
                     <div className="col-4"></div>
-                    <div className="col-4 center padding-top-bottom">
+                    <div className="col-4 center">
                         <button className="btn-default">Pogledajte još</button>
                     </div>
                     <div className="col-4"></div>

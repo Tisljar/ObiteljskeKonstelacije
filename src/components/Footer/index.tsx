@@ -3,7 +3,8 @@ import './index.css';
 const Footer = () => {
     return (
         <div className="footer-container">
-            <h1>test</h1>
+            <p className="footer-content">Obiteljske konstalacije</p>
+            <p className="footer-content">ajagnjic@gmail.com</p>
         </div>
     );
 };
