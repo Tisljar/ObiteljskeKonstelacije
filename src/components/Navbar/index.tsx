@@ -2,10 +2,13 @@ import './index.css';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
+    const logoWhite = require('../../assets/img/Logo-white.png');
     return (
         <section className="top-nav">
             <Link to={'/'}>
-                <div>Logo</div>
+                <div>
+                    <img src={logoWhite} alt="" className="logo" />
+                </div>
             </Link>
             <input type="checkbox" id="menu-toggle" />
             <label htmlFor="menu-toggle" className="menu-button-container">
@@ -20,7 +23,7 @@ const Navbar = () => {
 
                 <li>
                     <Link to={'/konstalacije'} className="link">
-                        Obiteljske konstalacije
+                        Obiteljske konstelacije
                     </Link>
                 </li>
                 <li>

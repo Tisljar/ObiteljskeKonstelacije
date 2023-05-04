@@ -2,9 +2,16 @@ import './index.css';
 
 import Footer from '../../components/Footer';
 import Navbar from '../../components/Navbar';
-import Linkovi from '../../components/Linkovi';
+import LinkoviProšireno from '../../components/LinkoviProšireno';
+import { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 
 const LinkoviPage = () => {
+    const location = useLocation();
+
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, [location]);
     return (
         <div className="page">
             <header>
@@ -12,7 +19,7 @@ const LinkoviPage = () => {
             </header>
             <main>
                 <div className="flex-container">
-                    <Linkovi />
+                    <LinkoviProšireno />
                 </div>
             </main>
             <footer>

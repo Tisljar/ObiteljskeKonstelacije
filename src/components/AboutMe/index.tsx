@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './index.css';
 
 const AboutMe = () => {
@@ -5,7 +6,7 @@ const AboutMe = () => {
     return (
         <>
             <div className="row">
-                <h1>O meni</h1>
+                <h2>O meni</h2>
             </div>
             <div className="row">
                 <div className="col-md-12 col-td-5 col-4">
@@ -23,7 +24,9 @@ const AboutMe = () => {
                             Njemačkoj kod Berta Hellingera i drugih. Dodatno se educirala na seminarima svjetski
                             poznatih konstelatora Stefana Hausnera, Cecilia Fernardez Regoja i Anngwyn St. Just.
                         </p>
-                        <button className="btn-default mg-left">Pročitajte moje članke</button>
+                        <Link to={'/about'}>
+                            <button className="btn-default mg-left">Pročitajte moje članke</button>
+                        </Link>
                     </div>
                 </div>
             </div>

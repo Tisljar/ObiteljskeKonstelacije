@@ -11,7 +11,11 @@
     height: 50px;
     padding: 1em;
 }
-
+.logo {
+    width: auto;
+    height: 36px;
+    transform: rotateY(180deg);
+}
 .menu {
     display: flex;
     flex-direction: row;
@@ -21,7 +25,7 @@
 }
 
 .menu > li {
-    margin: 0 1rem;
+    margin-left: 1rem;
     overflow: hidden;
 }
 

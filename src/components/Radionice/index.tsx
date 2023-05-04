@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './index.css';
 
 const Radionice = () => {
@@ -24,10 +25,11 @@ const Radionice = () => {
                         početak je dovoljno.
                     </p>
                     <p>Ukoliko želite proučiti dodatni materijal prije radionice možete saznati više:</p>
-                    <button className="btn-default">Saznajte više</button>
+                    <Link to={'/radionice'}>
+                        <button className="btn-default">Saznajte više</button>
+                    </Link>
                 </div>
-                <div className="col-md-12 col-td-1 col-1"></div>
-                <div className="col-md-12 col-td-5 col-5  nacrt-center">
+                <div className="col-md-12 col-td-6 col-6  nacrt-center">
                     <div>
                         <img src={nacrt} alt="" className="nacrt" />
                     </div>

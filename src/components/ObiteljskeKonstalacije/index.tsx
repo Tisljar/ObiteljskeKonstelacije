@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './index.css';
 
 const ObiteljskeKonstalacije = () => {
@@ -5,7 +6,7 @@ const ObiteljskeKonstalacije = () => {
     return (
         <>
             <div className="row">
-                <h1>Što su obiteljske konstalacije?</h1>
+                <h1>Što su obiteljske konstelacije?</h1>
             </div>
             <div className="row">
                 <div className="col-md-12 col-td-6 col-7">
@@ -25,12 +26,18 @@ const ObiteljskeKonstalacije = () => {
                         preuzeti mudrost i snagu za ostvarenje ciljeva u budućnosti.
                     </p>
                     <p>Ova metoda najčešće se primjenjuje na radionicama ali je moguć i individualni rad.</p>
-
-                    <button className="md-padding-bottom btn-default">Saznajte više</button>
+                    <Link to={'/konstalacije'}>
+                        <button className="md-padding-bottom btn-default">Saznajte više</button>
+                    </Link>
                 </div>
                 <div className="col-md-12 col-td-1 col-1"></div>
                 <div className="col-md-12 col-td-5 col-4 stablo">
-                    <img src={obiteljskeKonstalacije} alt="" className="fraktal" />
+                    <img
+                        src={obiteljskeKonstalacije}
+                        alt="Fraktal"
+                        title="Fraktali su povezani zato i zato"
+                        className="fraktal"
+                    />
                 </div>
             </div>
         </>

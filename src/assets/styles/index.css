@@ -81,6 +81,13 @@ h1 {
     color: #56a8c8;
 }
 
+h2 {
+    margin-top: 56px;
+    font-size: 2em;
+    font-weight: bold;
+    color: #56a8c8;
+}
+
 h3 {
     text-align: center;
 }

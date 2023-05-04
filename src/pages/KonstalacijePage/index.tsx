@@ -1,9 +1,17 @@
 import Footer from '../../components/Footer';
 import Navbar from '../../components/Navbar';
-import ObiteljskeKonstalacije from '../../components/ObiteljskeKonstalacije';
+import OKonstalacijama from '../../components/OKonstalacijama';
+import Razrjesenje from '../../components/Razrjesenje';
 import './index.css';
+import { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 
 const KonstalacijePage = () => {
+    const location = useLocation();
+
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, [location]);
     return (
         <div className="page">
             <header>
@@ -11,7 +19,8 @@ const KonstalacijePage = () => {
             </header>
             <main>
                 <div className="flex-container">
-                    <ObiteljskeKonstalacije />
+                    <OKonstalacijama />
+                    <Razrjesenje />
                 </div>
             </main>
             <footer>

@@ -4,8 +4,15 @@ import Linkovi from '../../components/Linkovi';
 import Navbar from '../../components/Navbar';
 import ObiteljskeKonstalacije from '../../components/ObiteljskeKonstalacije';
 import Radionice from '../../components/Radionice';
+import { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 
 const HomePage = () => {
+    const location = useLocation();
+
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, [location]);
     return (
         <div className="page">
             <header>
