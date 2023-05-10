@@ -5,23 +5,27 @@ const RadioniceDodatno = () => {
     return (
         <>
             <div className="row">
-                <h2>Kako se pripremiti za radionicu</h2>
-            </div>
-            <div className="row">
                 <div className="col-md-12 col-td-6 col-6">
+                    <h2>Postavljanje konstelacija</h2>
                     <p>
-                        Ukoliko do sada niste imali iskustvo s konstelacijama, vjerojatno imate potrebu dobiti neku
-                        vrsta uputa kako se pripremiti za radionicu.
-                        <br /> Najiskreniji i najpotpuniji odgovor bi bio: NIŠTA!
-                        <br /> Iz najave radionice i iz informacija koje ste odprije imali, dobili ste podstrek da se
-                        prijavite, spremnost da na stara pitanja dobijete odgovore na novi način. Time ste pokazali
-                        otvorenost za ovaj, sistemski pogled na sebe i svoj obiteljski sustav. I to je za sada dovoljno.
-                        <br /> Konstelacije su tiha metoda u kojoj se uvidi i odgovori čitaju iz tjelesnih reakcija na
-                        podsvjesne upite i čežnje, otvaraju mogućnosti rješenja u tihom i dubokom dijalogu sa dušom,
-                        onkraj buke uma i emocija.
-                        <br /> Analiziranje i racionaliziranje, emocionalne akcije i reakcije mogu stvoriti ometanje u
-                        kojoj se šapat duše može zagubiti.
-                        <br /> Zato zadržite otvorenost prema novom, za početak je dovoljno.
+                        Rad se može postaviti grupno ili individualno.
+                        <br /> Radom u grupi dobijete energetsku i emocionalnu podršku drugih sudionika, dobijete
+                        priliku učestvovati ili samo promatrati radove drugih sudionika u kojima možete dobiti snažne i
+                        važne uvide
+                    </p>
+                    <p>
+                        Kroz individualni rad dobijete mirniji i intimniji prostor za rad. Za sve koji se boje ili ne
+                        mogu otvoriti prema grupi, individualni rad je dobar odabir Rad se može postaviti uživo ili
+                        on-line.
+                        <br /> Bez obzira KAKO postavljate rad, najvažnije za uspjeh rada je JASNA UNUTARNJA NAMJERA i
+                        volja za promjenom.
+                    </p>
+                    <p>
+                        Ponekad nam to dođe kao osjećaj „već mi je ovoga dosta“, ponekad „ne želim ovu bol“ ili „vrijeme
+                        je za promjene“ ili „umorna sam od pokušaja! Ili… Bez obzira kako se namjera uobliči, opustite
+                        misli, otvorite srce, otvorite se prema onom što može doći.
+                        <br /> Neće doći ni previše ni premalo, doći će ono što trebate, koliko trebate i u obliku u
+                        kojem trebate.
                     </p>
                 </div>
                 <div className="col-md-12 col-td-1 col-1"></div>
@@ -33,6 +37,7 @@ const RadioniceDodatno = () => {
             </div>
             <div className="row">
                 <div className="col-12">
+                    <h2>Kako se pripremiti za rad?</h2>
                     <p>
                         <br /> Možete pokušati osjetiti na koje područje života najviše želite pogledati:
                         <br />
@@ -46,7 +51,9 @@ const RadioniceDodatno = () => {
                         <li>partneri i djeca,</li>
                         <li> roditelji i braća i sestre partnera,</li>
                         <li>bake, djedovi, braća i sestre roditelja od partnera.</li>
-                        <li>Djeca se crtaju redosljedom kojim su rođena, prvi ljevi simbol je za prvorođeno djete.</li>
+                        <li>
+                            djeca se crtaju redoslijedom kojim su rođena, prvi ljevi simbol je za prvorođeno dijete.
+                        </li>
                         <li>Nerođena djeca se crtaju iznad crte za vezu.</li>
                         <li>Prekinuta veza je važna prethodna veza u kojoj nije bilo djece.</li>
                         <li>

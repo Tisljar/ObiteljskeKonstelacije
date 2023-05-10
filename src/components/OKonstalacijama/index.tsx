@@ -11,8 +11,8 @@ const OKonstalacijama = () => {
                 <div className="col-md-12 col-td-6 col-7">
                     <p>
                         Osnivač metode obiteljskih ili sistemskih konstelacija, Bert Hellinger u ovoj metodi uspješno je
-                        primijenio principe psihologije i duhovnosti te omogućio dublji uvid u složene sustave
-                        međuljudskih odnosa.
+                        primijenio principe psihologije, duhovnosti i tradicija afričkog šamanizma te omogućio dublji
+                        uvid u složene sustave međuljudskih odnosa.
                     </p>
                     <p>
                         Osnovna postavka ove metode je da u obitelji, kao i u svim drugim sustavima kojima pripadamo,

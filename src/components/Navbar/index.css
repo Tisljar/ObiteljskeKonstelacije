@@ -8,12 +8,12 @@
     margin: 0 auto;
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #fff;
-    height: 50px;
+    height: 72px;
     padding: 1em;
 }
 .logo {
     width: auto;
-    height: 36px;
+    height: 54px;
     transform: rotateY(180deg);
 }
 .menu {
@@ -101,7 +101,7 @@ a:hover {
     .menu {
         position: absolute;
         top: 0;
-        margin-top: 50px;
+        margin-top: 72px;
         left: 0;
         flex-direction: column;
         width: 100%;

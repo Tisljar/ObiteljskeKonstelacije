@@ -29,6 +29,7 @@ main {
 
 p {
     line-height: 1.5;
+    color: #0b202a;
 }
 
 .container {
@@ -90,12 +91,13 @@ h2 {
 
 h3 {
     text-align: center;
+    color: #0b202a;
 }
 
 .btn-default {
-    padding: 16px;
+    padding: 14px 16px;
     background-color: #56a8c8;
-    color: white;
+    color: #f0f0f0;
     border-radius: 8px;
     border: none;
 }
@@ -105,7 +107,7 @@ h3 {
 }
 .btn-default:hover {
     background-color: #ffdbc9;
-    color: #515151;
+    color: #0b202a;
 }
 
 .col-1 {
