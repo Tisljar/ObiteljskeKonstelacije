@@ -17,7 +17,7 @@ const Navbar = () => {
             <ul className="menu">
                 <li>
                     <Link to={'/about'} className="link">
-                        Moji članci
+                        O Meni
                     </Link>
                 </li>
 

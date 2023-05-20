@@ -81,7 +81,6 @@
 
 a {
     text-decoration: none; /* remove underline */
-    color: inherit; /* inherit color from parent element */
 }
 
 a:visited {
@@ -94,6 +93,7 @@ a:hover {
     color: inherit; /* inherit color from parent element */
     /* additional styles as needed */
 }
+
 @media (max-width: 767px) {
     .menu-button-container {
         display: flex;

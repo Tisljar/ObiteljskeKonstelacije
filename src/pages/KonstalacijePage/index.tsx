@@ -1,10 +1,11 @@
 import Footer from '../../components/Footer';
 import Navbar from '../../components/Navbar';
 import OKonstalacijama from '../../components/OKonstalacijama';
-import Razrjesenje from '../../components/Razrjesenje';
 import './index.css';
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
+import VrsteKonstalacija from '../../components/VrsteKonstalacija';
+import Accordion from '../../components/Accordion';
 
 const KonstalacijePage = () => {
     const location = useLocation();
@@ -20,7 +21,8 @@ const KonstalacijePage = () => {
             <main>
                 <div className="flex-container">
                     <OKonstalacijama />
-                    <Razrjesenje />
+                    <Accordion />
+                    <VrsteKonstalacija />
                 </div>
             </main>
             <footer>

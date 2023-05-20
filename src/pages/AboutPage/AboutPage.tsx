@@ -1,9 +1,10 @@
-import AboutMe from '../../components/AboutMe';
 import Footer from '../../components/Footer';
-import MojiČlanci from '../../components/MojiČlanci';
 import Navbar from '../../components/Navbar';
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
+import Accordion from '../../components/Accordion';
+import AboutMeNoBtn from '../../components/AboutMeNoBtn';
+import AboutArticles from '../../components/AboutArticles';
 
 const AboutPage = () => {
     const location = useLocation();
@@ -18,9 +19,8 @@ const AboutPage = () => {
             </header>
             <main>
                 <div className="flex-container">
-                    <AboutMe />
-                    <MojiČlanci />
-                    <MojiČlanci />
+                    <AboutMeNoBtn />
+                    <AboutArticles />
                 </div>
             </main>
             <footer>

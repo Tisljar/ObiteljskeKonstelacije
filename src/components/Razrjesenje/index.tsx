@@ -40,30 +40,6 @@ const Razrjesenje = () => {
                         na radionicama i individualnom radu.
                     </p>
                 </div>
-                <div className="col-12">
-                    <h2>Vrste Konstelacija</h2>
-                    <p>Konstelacijska metoda započela se koristiti za osobne i obiteljske zapetljaje.</p>
-                    <p>
-                        Uskoro je zamječeno da princip pripadanja i poretka djeluje i u drugim sustavima.Tako su se
-                        razvile sistemske konstelacije, poslovne konstelacije, astrološke konstelacije, .. Mnogi
-                        terapeuti kroz svoje metode provlače i osnovne konstelacijske postavke i alate.
-                    </p>
-                </div>
-                <div className="col-12">
-                    <h2>Kako odabrati metodu i konstelatora?</h2>
-                    <p>
-                        Konstelacijska metoda cijeni onaj fini osječaj koji nam kroz tijelo ili iz oblaka „padne
-                        napamet!. Neki to zovu intuicija, neki drugačije. U svakom slučaju - vjerujte svom osječaju. Kod
-                        odabira terapije, vremena z aterapiju i osobe koja će sudjelovati u terapijskom radu s vama koja
-                        će vas blago i nježno voditi kroz postupak sagledavanja, uvida, rasterečenja, inteegracije…
-                    </p>
-                    <p>Svako nađe svoju metodu i svog konstelatora i svoje vrijeme rad.</p>
-                    <p>
-                        Samo molim bez pritiska, bez samokritičnosti, bez potrebe za kopanjem po sebi i obitelji…Rad na
-                        sebi ne treba biti mučenje već oslobađanje, pod vašim uvjetima. Svi mi, terapeuti i konstelatora
-                        smo tu za vaše potrebe, uz vaše uvjete..
-                    </p>
-                </div>
             </div>
         </>
     );

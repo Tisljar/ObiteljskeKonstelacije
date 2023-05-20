@@ -33,6 +33,11 @@ const OKonstalacijama = () => {
                 <div className="col-md-12 col-td-1 col-1"></div>
                 <div className="col-md-12 col-td-5 col-4 stablo">
                     <img src={obiteljskeKonstalacije} alt="" className="fraktal" />
+                    <p className="img-description">
+                        Fraktali su geometrijski objekti koji su samoslični, sastoje se od umanjenih inačica samih sebe.
+                        Slično je sa obiteljima: svaka obitelj je sastavljena od slike svojih članova, a svaka osoba je
+                        umanjena slika svoje obitelji.
+                    </p>
                 </div>
             </div>
             <div className="row">

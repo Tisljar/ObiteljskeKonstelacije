@@ -6,6 +6,7 @@ import ObiteljskeKonstalacije from '../../components/ObiteljskeKonstalacije';
 import Radionice from '../../components/Radionice';
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
+import EmailMe from '../../components/EmailMe';
 
 const HomePage = () => {
     const location = useLocation();
@@ -23,6 +24,7 @@ const HomePage = () => {
                     <ObiteljskeKonstalacije />
                     <AboutMe />
                     <Radionice />
+                    <EmailMe />
                     <Linkovi />
                 </div>
             </main>
