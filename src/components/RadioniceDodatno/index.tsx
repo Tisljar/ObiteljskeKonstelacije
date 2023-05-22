@@ -1,11 +1,10 @@
 import './index.css';
 
 const RadioniceDodatno = () => {
-    const nacrt = require('../../assets/img/nacrt.png');
     return (
         <>
             <div className="row">
-                <div className="col-md-12 col-td-6 col-6">
+                <div className="col-md-12 col-td-12 col-12">
                     <h2>Postavljanje konstelacija</h2>
                     <p>
                         Rad se može postaviti grupno ili individualno.
@@ -27,12 +26,6 @@ const RadioniceDodatno = () => {
                         <br /> Neće doći ni previše ni premalo, doći će ono što trebate, koliko trebate i u obliku u
                         kojem trebate.
                     </p>
-                </div>
-                <div className="col-md-12 col-td-1 col-1"></div>
-                <div className="col-md-12 col-td-5 col-5  nacrt-center">
-                    <div>
-                        <img src={nacrt} alt="" className="nacrt" />
-                    </div>
                 </div>
             </div>
         </>

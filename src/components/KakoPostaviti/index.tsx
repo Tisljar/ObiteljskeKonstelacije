@@ -1,18 +1,24 @@
 const KakoPostaviti = () => {
+    const nacrt = require('../../assets/img/nacrt.png');
     return (
         <>
-            {' '}
             <div className="row">
                 <div className="col-12">
                     <h2>Kako se pripremiti za rad?</h2>
                     <p>
-                        <br /> Možete pokušati osjetiti na koje područje života najviše želite pogledati:
+                        Možete pokušati osjetiti na koje područje života najviše želite pogledati:
                         <br />
                         partnerstvo, odnos s djecom, odnos s roditeljima, simptome i/ili bolesti, osjećaje
-                        nezadovoljstva u nekom dijelu života ili poslovna pitanja.
+                        nezadovoljstva u nekom dijelu života ili poslovna pitanja. Konkretna pitanja ostavite da se
+                        uobliče tijekom radionice.
+                    </p>
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-md-12 col-td-6 col-6">
+                    <p>
+                        Za one izrazito uporne, predlažem nacrtati svoje obiteljsko stablo. U obitelji stablo pripadaju:{' '}
                         <br />
-                        Konkretna pitanja ostavite da se uobliče tijekom radionice. <br /> Za one izrazito uporne,
-                        predlažem nacrtati svoje obiteljsko stablo. U obitelji stablo pripadaju: <br />
                     </p>
                     <ul>
                         <li>partneri i djeca,</li>
@@ -33,6 +39,16 @@ const KakoPostaviti = () => {
                             bolest ili nesretni slučaj.
                         </li>
                     </ul>
+                </div>
+                <div className="col-md-12 col-td-1 col-1"></div>
+                <div className="col-md-12 col-td-5 col-5  nacrt-center">
+                    <div>
+                        <img src={nacrt} alt="" className="nacrt" />
+                    </div>
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-12">
                     <p>
                         Pitajte svoje roditelje o njihovoj mladosti i mladosti njihovih roditelja, pitajte ih kada i
                         kako su zaljubili, što im je bilo najljepše a što najteže. Podijelite i svoja iskustva sa svojom
