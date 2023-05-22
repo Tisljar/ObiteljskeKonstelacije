@@ -135,11 +135,10 @@ const LinkoviProšireno = () => {
                         <h3>Vedran i Ankica: Pobačaj - duhovne posljedice i iscjeljivanje.</h3>
                     </div>
                     <iframe
+                        src="https://www.facebook.com/plugins/video.php?height=300&href=https%3A%2F%2Fwww.facebook.com%2Falkemijazivota%2Fvideos%2F2736338436506540%2F&show_text=false&width=480&t=0"
+                        className="yt-video"
                         width="100%"
                         height="300px"
-                        className="yt-video"
-                        src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falkemijazivota%2Fvideos%2F2736338436506540%2F&show_text=false&width=560&t=0"
-                        title="Vedran i Ankica: Pobačaj - duhovne posljedice i iscjeljivanje."
                         allowFullScreen={true}
                     ></iframe>
                 </div>
