@@ -7,12 +7,6 @@ const Termini = () => {
                 <p>Obzirom da prostor Apolon-a više nije dostupan, sljedeći termini su samo za on-line radionice:</p>
                 <ul>
                     <li>
-                        <b>3.6.2023, subota, od 14 do 19</b>
-                    </li>
-                    <li>
-                        <b>4.6.2023, nedjelja, od 14 do 19</b>
-                    </li>
-                    <li>
                         <b>1.7.2023, subota, od 14 do 19</b>
                     </li>
                 </ul>
