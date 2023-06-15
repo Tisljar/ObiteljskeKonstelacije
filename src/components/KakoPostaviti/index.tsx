@@ -25,13 +25,12 @@ const KakoPostaviti = () => {
                         <li> roditelji i braća i sestre partnera,</li>
                         <li>bake, djedovi, braća i sestre roditelja od partnera.</li>
                         <li>
-                            djeca se crtaju redoslijedom kojim su rođena, prvi ljevi simbol je za prvorođeno dijete.
+                            djeca se crtaju redoslijedom kojim su rođena, prvi lijevi simbol je za prvorođeno dijete.
                         </li>
                         <li>Nerođena djeca se crtaju iznad crte za vezu.</li>
                         <li>Prekinuta veza je važna prethodna veza u kojoj nije bilo djece.</li>
                         <li>
-                            Svaka veza u kojoj je bilo djece ima jednaku važnost i isti simbol kao i partnerstvo u braku
-                            kao imisti simbol za prekid.
+                            Svaka veza u kojoj je bilo djece ima jednaku važnost i isti simbol, za vezu ili za prekid.
                         </li>
                         <li>Izvan bračna veza je veza koja je istovremena sa brakom.</li>
                         <li>

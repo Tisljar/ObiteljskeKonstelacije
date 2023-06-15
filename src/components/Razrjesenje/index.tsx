@@ -36,8 +36,7 @@ const Razrjesenje = () => {
                     </ul>
                     <p>
                         Na obiteljskim konstelacijama ćete dobiti uvid zašto je do sada nešto bilo i kako iz prošlosti
-                        preuzeti mudrost i snagu za ostvarenje ciljeva u budućnosti. Ova metoda najčešće se primjenjuje
-                        na radionicama i individualnom radu.
+                        preuzeti mudrost i snagu za ostvarenje ciljeva u budućnosti.
                     </p>
                 </div>
             </div>

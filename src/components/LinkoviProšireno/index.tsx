@@ -6,35 +6,43 @@ const LinkoviProšireno = () => {
             <div className="row">
                 <h2>Linkove na korisne sadržaje i informacije</h2>
                 <p>
-                    Član sam sljedećih udruženja konstelatora:
+                    Članica sam sljedećih udruženja konstelatora:
                     <ul>
                         <li>
                             ISCA -{' '}
-                            <a href="https://isca-network.org/" className="learn">
+                            <a href="https://isca-network.org/" className="learn" style={{ color: '#00509f' }}>
                                 {' '}
                                 International system constellations association
                             </a>
                         </li>
                         <li>
                             Constelators international -{' '}
-                            <a href="https://constellators-international.com/" className="learn">
+                            <a
+                                href="https://constellators-international.com/"
+                                className="learn"
+                                style={{ color: '#00509f' }}
+                            >
                                 constellators-international
                             </a>
                         </li>
                         <li>
                             Udruga „Konstelacija“ -{' '}
-                            <a href="https://udrugakonstelacija.com/" className="learn">
+                            <a href="https://udrugakonstelacija.com/" className="learn" style={{ color: '#00509f' }}>
                                 Udruga "KONSTELACIJA" - Constellations According to Hellinger International
                             </a>
                         </li>
                     </ul>
                 </p>
                 <p>
-                    Dodatni zanimljivi i korsini linkovi:
+                    Dodatni zanimljivi i korisni linkovi:
                     <ul>
-                        <li>starnica mojih učitelja Alemke i Max-a Dauskardta:</li>
+                        <li>stranica mojih učitelja Alemke i Max-a Dauskardta:</li>
                         <li>
-                            <a href="https://konstelacijakroacija.wordpress.com/" className="learn">
+                            <a
+                                href="https://konstelacijakroacija.wordpress.com/"
+                                className="learn"
+                                style={{ color: '#00509f' }}
+                            >
                                 Zapisi na duši | Imprints on the Soul - Constellations according to Hellinger
                             </a>
                             <ul>
@@ -42,6 +50,7 @@ const LinkoviProšireno = () => {
                                     <a
                                         href="https://konstelacijakroacija.wordpress.com/konstelacije/"
                                         className="learn"
+                                        style={{ color: '#00509f' }}
                                     >
                                         Sistemske Konstelacije | Zapisi na duši
                                     </a>
@@ -50,21 +59,51 @@ const LinkoviProšireno = () => {
                                     <a
                                         href="https://konstelacijakroacija.wordpress.com/resursi-3/clanci/"
                                         className="learn"
+                                        style={{ color: '#00509f' }}
                                     >
                                         Članci & Blogovi | Zapisi na duši
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://konstelacijakroacija.wordpress.com/blog/" className="learn">
+                                    <a
+                                        href="https://konstelacijakroacija.wordpress.com/blog/"
+                                        className="learn"
+                                        style={{ color: '#00509f' }}
+                                    >
                                         Blog | Zapisi na duši
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://konstelacijakroacija.wordpress.com/resursi-3/" className="learn">
+                                    <a
+                                        href="https://konstelacijakroacija.wordpress.com/resursi-3/"
+                                        className="learn"
+                                        style={{ color: '#00509f' }}
+                                    >
                                         Resursi | Zapisi na duši
                                     </a>
                                 </li>
                             </ul>
+                        </li>
+                    </ul>
+                </p>
+                <p>
+                    Another Self - na Netflixu možete pogledati zanimljivu seriju koja dobro pokazuje principe sistemske
+                    i obiteljske ljubavi koji djeluje na nas.
+                </p>
+                <p>
+                    U seriji tri prijateljice uz pomoć konstelacija razrješavaju svoje životne poteškoće uvidom u
+                    prošlost svojih obitelji.
+                    <ul>
+                        <li>
+                            Najava na YouTube-u:
+                            <a
+                                href="https://www.youtube.com/watch?v=Pzl33KQP8b4"
+                                className="learn"
+                                style={{ color: '#00509f' }}
+                            >
+                                {' '}
+                                Another Self | Offical Trailer | Netflix
+                            </a>
                         </li>
                     </ul>
                 </p>
@@ -88,7 +127,7 @@ const LinkoviProšireno = () => {
                 </div>
                 <div className="col-md-12 col-td-6 col-6">
                     <div className="yt-title mg-top-20">
-                        <h3>Na rubu znanosti: Sistemske konstelacije i odnosi razgovor sa Alemkom Dauskardt</h3>
+                        <h3>Na rubu znanosti: Sistemske konstelacije i odnosi, razgovor sa Alemkom Dauskardt</h3>
                     </div>
                     <iframe
                         width="100%"

@@ -7,7 +7,7 @@
     max-width: 1000px;
     margin: 0 auto;
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    color: #fff;
+    color: #f5f5f5;
     height: 72px;
     padding: 1em;
 }
@@ -27,6 +27,11 @@
 .menu > li {
     margin-left: 1rem;
     overflow: hidden;
+}
+
+.menu li {
+    font-weight: 600;
+    color: #f5f5f5;
 }
 
 .menu-button-container {
@@ -80,18 +85,16 @@
 }
 
 a {
-    text-decoration: none; /* remove underline */
+    text-decoration: none;
+    color: inherit;
 }
 
 a:visited {
-    /* styles for visited links */
-    color: inherit; /* inherit color from parent element */
+    color: inherit;
 }
 
 a:hover {
-    /* styles for hover state */
-    color: inherit; /* inherit color from parent element */
-    /* additional styles as needed */
+    color: inherit;
 }
 
 @media (max-width: 767px) {

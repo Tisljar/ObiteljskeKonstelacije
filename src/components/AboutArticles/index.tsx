@@ -18,8 +18,8 @@ const AboutArticles = () => {
                         pokušavajući pomoći.
                     </p>
                     <p>
-                        I jedan i drugi izbor u jednom času trebaju se učiniti isto: prihvatiti svoj život onakav kakav
-                        jest.
+                        I jedan i drugi izbor nakon nekog vremena trebaju učiniti isto: prihvatiti svoj život onakav
+                        kakav jest.
                     </p>
                     <p>
                         Oni koji su pobjegli i odbili sudjelovati moraju se vratiti, pogledati, osjetiti teret,
@@ -28,7 +28,7 @@ const AboutArticles = () => {
                     </p>
                     <p>
                         Oni koji su pokušali pomoći, trebaju se odmaknuti, ostaviti teret onima kojima pripada, odustati
-                        da svojoj dječjom ljubavlju krpaju tuđe živote. Jer tako polako gase svoj. Sagledati tešku
+                        da svojom dječjom ljubavlju krpaju tuđe živote. Jer tako polako gase svoj. Sagledati tešku
                         sudbinu i osjetiti snagu u polomljenim dušama. S punim poštovanjem. U svima koji su preživjeli
                         da bi njihova djeca živjela.
                     </p>
@@ -42,7 +42,7 @@ const AboutArticles = () => {
                     </p>
                     <p>Tu se obično javlja otpor &#8722; kako dovoljno!! Trebao sam i zaslužila/o više!!</p>
                     <p>
-                        Jesi, ali si dobio ono što je bilo moguće. I bilo j dovoljno jer došao si na svijet i živ/a si!
+                        Jesi, ali si dobio ono što je bilo moguće. I bilo je dovoljno jer došao si na svijet i živ/a si!
                     </p>
                     <p>Za početak.</p>
                     <p>
@@ -55,7 +55,7 @@ const AboutArticles = () => {
                         od učiteljice koja nam usadi strast prema knjizi, prema susjedi koja nam peče kolače, šefa koji
                         nas nauči prihvatiti autoritet, od ljubaznosti stranca koji primijeti da ste utučeni… I tako
                         svaki dan, cijeli život. Ako to primijetimo. A često nam promakne primijetiti i cijeniti. I tu
-                        je naša odgovornost. Da vidimo da je ŽIVOT uz nas
+                        je naša odgovornost. Da vidimo da je ŽIVOT uz nas,
                     </p>
                     <p>
                         Naša je odgovornost da budemo otvoreni prema tim malim/velikim poklonima, da ih primijetimo i da
@@ -68,9 +68,9 @@ const AboutArticles = () => {
                     <h2 className="accordion-title">Biti Roditelj</h2>
                     <p>
                         Jednom prilikom, moja me kćer pitala što mi je kao roditelju bilo najkompliciranije. Odgovor ju
-                        je možda iznenadio &#8722; jer najizazovnije su bile stalne promjene moje djece za koje sam i ja
+                        je možda iznenadio &#8722; najizazovnije su bile stalne promjene moje djece za koje sam i ja
                         morala stalno mijenjati moju ulogu roditelja i način na koji sam s njima komunicirala, na koji
-                        sam bila dio njihovog žitota i oni mog.
+                        sam bila dio njihovog života i oni mog.
                     </p>
                     <p>
                         Biti roditelj postaje se već u svojoj obitelji, prihvaćajući svoje roditelje, tete, bake, sve
@@ -92,9 +92,9 @@ const AboutArticles = () => {
                         trčanja, penjanja. Kad se naviknete na pogled bezuvjetne ljubavi, a onda vas „ostavi“ i krene u
                         avanturu stvaranja dječjih prijateljstava, zatim škola kada autoritet roditelja bude zaljuljan
                         autoritetom učiteljice, zatim autoritetom prijatelja, društva… i polako se vaše bespomoćno
-                        „bundle of yoj“ pretvara u odraslu osobu.
+                        „bundle of joy“ pretvara u odraslu osobu.
                     </p>
-                    <p>I onda opet počinje novi teški dio.</p>
+                    <p>I onda, opet, počinje novi teški dio.</p>
                     <p>
                         Od roditelja djece potrebno je transformirati se u roditelj odrasle osobe. Postaviti nove
                         granice.

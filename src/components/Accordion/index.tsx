@@ -9,16 +9,17 @@ const Accordion = () => {
                     <i className="mg-top-arrow"></i>
                     <h2 className="accordion-title">Pripadanje</h2>
                     <p>
-                        Potreba za pripadanjem obitelji, grupi, generaciji, susjedstvu je svima poznata i prirodna
+                        Potreba za pripadanjem obitelji, grupi, generaciji, susjedstvu ... je svima poznata i prirodna
                         potreba. Ali pripadanje je i pravo. Ukoliko se to pravo naruši, obiteljska savjest se kroz
                         sistemske utjecaje pobrine da svatko dobije svoje mjesto.
                     </p>
                     <p>
                         Kada je neka osoba u obitelji nedostaje, izopćena je, zatajena ili nije u potpunosti prihvaćena,
                         obiteljska savjest nađe načina da tim članovima da pravo pripadanja kroz utjecaj na živote
-                        drugih članova obitelji i transgeneracijski se prenose dalje. Ne samo osobe već i potisnute
-                        emocije, zanijekani događaji, tajne... kroz obiteljsku savjest nađu načina da se kroz nekog
-                        člana obitelji pokažu i traže pravo na pripadanje.
+                        drugih članova obitelji što se i transgeneracijski prenosi na nove generacije unuka i praunuka.
+                        Isključenje utječe ne ako je isključena osoba već i ako su potisnute emocije, zanijekani
+                        događaji, tajne... Svako isključenje kroz obiteljsku savjest nađe načina da se kroz nekog člana
+                        obitelji ili kroz događaj pokažu i traže pravo na pripadanje.
                     </p>
                     <p>
                         A tko sve pripada obitelji?
@@ -30,21 +31,23 @@ const Accordion = () => {
                                 Braćai sestre od oca i majke &#40; stričevi i ujaci, ali ne i njihovi partneri i djeca
                                 &#41;
                             </li>
-                            <li>Djedovi i bake i njhova braća i sestre</li>
+                            <li>Djedovi i bake i njihova braća i sestre</li>
                             <li>I tako dalje....</li>
                         </ul>
                     </p>
                     <p>
                         Obitelji pripadaju i svi oni koji su bitno utjecali na sudbinu obitelji - koji su podupirali ili
-                        spašavali živote: posvojitelji, osobe koje su znatno pomagali i podupirali obitelji i slično.
-                        Ali i oni koji su koji su oduzimali živote: žrtve i počinitelji pripadaju i u obitelj žrtve i u
-                        obitelj počinitelja. Njihovo postojanje treba biti priznato, njhov utjcaj na obitelj prepoznat.
+                        spašavali živote: posvojitelji, osobe koje su znatno materijalno i duhovno pomagali i podupirali
+                        obitelji i slično. Ali i oni koji su koji su oduzimali živote: žrtve i počinitelji pripadaju i u
+                        obitelj žrtve i u obitelj počinitelja. Njihovo postojanje treba biti priznato, njhov utjecaj na
+                        obitelj prepoznat.
                     </p>
                     <p>
-                        Tko najčešće nedostaje: prerano umrli članovi, članovi obitelji koji su emigrirali ili napustili
-                        obitelj, članovi obitelji koji su zanijekani ili sakriveni ili zatajeni: nerođena djeca,
-                        vanbračna djeca, mentalni ili fizički hendkepirani, vanbračni partneri, značajni partneri
-                        roditelja, osobe koje su ne neki način osramotile obitelj pa ih se obitelj odrekla...
+                        Tko najčešće „nedostaje“: prerano umrli članovi, članovi obitelji koji su emigrirali ili
+                        napustili obitelj, članovi obitelji koji su zanijekani ili sakriveni ili zatajeni: nerođena
+                        djeca, vanbračna djeca, mentalni ili fizički hendkepirani, vanbračni partneri, značajni partneri
+                        roditelja, osobe koje su ne neki način osramotile obitelj pa ih se obitelj odrekla, žrtve i
+                        počinitelji...
                     </p>
                     <p>
                         U obitelj pripadaju i potisnute emocije vezane uz značajne događaje kao što su rat, glad,
@@ -68,7 +71,7 @@ const Accordion = () => {
                     <i className="mg-top-arrow"></i>
                     <h2 className="accordion-title">Poredak</h2>
                     <p>
-                        Poredak ili red u obitelji osigurava da tjek i energija života teče punom snagom i dopire do
+                        Poredak ili red u obitelji osigurava da tijek i energija života teče punom snagom i dopire do
                         svih članova obitelji. Kada je taj poredak iz nekog razloga poremećen, tijek životne energije
                         slabi, narušava se sposobnost primanja i davanja. I u obitelji i kod pojedinih članova.
                     </p>
@@ -85,25 +88,26 @@ const Accordion = () => {
                     </p>
                     <p>
                         U tim slučajevima netko iz obitelji privrermeno preuzme ulogu i „mjesto“ člana kojeg više nema
-                        ii koji je nemoćan, kao privremena ispomoć, dok se se obitelj ili član obitelji ne oporavi. Ali
+                        ii koji je nemoćan, kao privremena ispomoć, dok se obitelj ili član obitelji ne oporavi. Ali
                         nakon oporavka je bitno da opet svatko ima svoju ulogu. Nije dobro da privremena ispomoć ostane
                         trajna. Naročito su tome sklona djeca pa i kad odrastu žive tuđe živote.
                     </p>
                     <p>
-                        Čest poremečaj u poretku je i parentifikacija, kada djeca imaju potrebu da budu „roditelji“ ocu
-                        ili majci ili obojema.
+                        Čest poremećaj u poretku je i parentifikacija, kada djeca imaju potrebu da budu „roditelji“ ocu
+                        ili majci ili obojma.
                         <br /> Ili kada u slučaju difunkcionalnog partnerstva sin ili kćer pokušaju zauzeti roditeljsko
                         mjesto u obitelji pa postanu „mamini sinovi“ i „tatine curice“.
                         <br /> Sinovi i kćeri zarobljeni u ulogama koje im ne pripadaju ne žive svoj već tuđi život. Ako
                         i uspiju ostvariti svoje partnerstvo, ono bude opterećeno obavezama prema primarnim obiteljima
-                        pa to partnertvo postane disfunkcionalno.. i proces se dalje ponavlja.
+                        pa to partnerstvo postane disfunkcionalno.. i proces se dalje ponavlja.
                     </p>
                     <p>
                         Izlazak iz krive uloge je u tri koraka:
                         <ul>
-                            <li>osvjestiti svoje „krivo“ mjesto,</li>
-                            <li>prihvatiti i poštivati člana obitelji kojeg pokušavate nadomjesititi i</li>
+                            <li>osvijestiti svoje „krivo“ mjesto,</li>
+                            <li>prihvatiti i poštivati člana obitelji kojeg pokušavate nadomjestiti i</li>
                             <li> preuzeti odgovornost za sebe i samo za sebe.</li>
+                            <li> poštivati druge, njihovu sudbinu i živote i prestati im „pomagati“</li>
                         </ul>
                     </p>
                 </li>
@@ -129,7 +133,7 @@ const Accordion = () => {
                             <li>
                                 Roditelj završava svoju ulogu dajući svojoj djeci puno povjerenje, a djeca odrastu kada
                                 prema roditelji izgrade poštovanje bez ikakve zadrške. Kada odrasla djeca ovo pravilo ne
-                                poštuju, dolazi do smanjene mogućnosti primanja i davanja. Roditelji instiktivno osjete
+                                poštuju, dolazi do smanjene mogućnosti primanja i davanja. Roditelji instinktivno osjete
                                 kada njihova djeca odrastu i tada prestanu biti „gnjavatori“. Do tog vremena,
                                 instinktivno zrcale nesigurnosti i nezrelost svoje djece.
                             </li>
@@ -145,14 +149,14 @@ const Accordion = () => {
                                 duguješ.“
                             </li>
                             <li>
-                                Kada je netko povređen, ravnoteža se uspostavlja zadovoljštinom, malo manjom nego što je
-                                povreda.
+                                Kada je netko povrijeđen, ravnoteža se uspostavlja zadovoljštinom, malo manjom nego što
+                                je povreda.
                             </li>
                             <li>
-                                Kada nekoga povrediš, ne tražiš oproštaj. Time sebično samo želiš sebe osloboditi boli.
-                                Kada povrediš, važno je da priznaš bol koju si prouzročio, sebi ili povređenoj osobi.
-                                Time oslobađaš onoga kojeg si povrijedio. I ostavljaš mogućnost poravnanja onome koji je
-                                bio povređen.
+                                Kada nekoga povrijediš, ne tražiš oproštaj. Time sebično samo želiš sebe osloboditi
+                                boli. Kada povrijediš, važno je da priznaš bol koju si prouzročio, sebi ili povrijeđenoj
+                                osobi. Time oslobađaš onoga kojeg si povrijedio. I ostavljaš mogućnost poravnanja onome
+                                koji je bio povrijeđen.
                             </li>
                             <li>
                                 Kada nešto dobiješ{' '}

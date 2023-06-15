@@ -14,7 +14,7 @@ const RadioniceDodatno = () => {
                     </p>
                     <p>
                         Kroz individualni rad dobijete mirniji i intimniji prostor za rad. Za sve koji se boje ili ne
-                        mogu otvoriti prema grupi, individualni rad je dobar odabir Rad se može postaviti uživo ili
+                        mogu otvoriti prema grupi, individualni rad je dobar odabir. Rad se može postaviti uživo ili
                         on-line.
                         <br /> Bez obzira KAKO postavljate rad, najvažnije za uspjeh rada je JASNA UNUTARNJA NAMJERA i
                         volja za promjenom.

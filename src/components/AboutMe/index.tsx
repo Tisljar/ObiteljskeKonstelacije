@@ -18,10 +18,11 @@ const AboutMe = () => {
                 <div className="col-md-12 col-td-6 col-7">
                     <div className="about-content">
                         <p>
-                            Ankica Jagnjić s konstelacijama se druži više od 15 godina, u početku za svoj osobni razvoj
-                            na radionicama Michaela Scheffera. <br /> Edukaciju za sistemskog konstelatora pohađala je i
+                            Ankica Jagnjić
+                            <br /> S konstelacijama se družim više od 15 godina, u početku za svoj osobni razvoj na
+                            radionicama Michaela Scheffera. <br /> Edukaciju za sistemskog konstelatora pohađala sam i
                             završila kod Alemke i Maxa Dauskardta, iskusnih voditelja, školovanih u Australiji i
-                            Njemačkoj kod Berta Hellingera i drugih. Dodatno se educirala na seminarima svjetski
+                            Njemačkoj kod Berta Hellingera i drugih. Dodatno sam se educirala na seminarima svjetski
                             poznatih konstelatora Stefana Hausnera, Cecilia Fernardez Regoja i Anngwyn St. Just.
                         </p>
                         <Link to={'/about'}>
