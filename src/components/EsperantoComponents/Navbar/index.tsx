@@ -36,11 +36,6 @@ const Navbar = () => {
                         Korisni linkovi
                     </Link>
                 </li>
-                <li>
-                    <Link to={'/esabout'} className="logo">
-                        Esperanto
-                    </Link>
-                </li>
             </ul>
         </section>
     );

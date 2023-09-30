@@ -4,6 +4,7 @@ import HomePage from './pages/HomePage';
 import KonstalacijePage from './pages/KonstalacijePage';
 import LinkoviPage from './pages/LinkoviPage';
 import RadionicePage from './pages/RadionicePage';
+import AboutPageEs from './pages/EsperantoPages/AboutPageEs/AboutPageEs';
 
 const App = () => {
     return (
@@ -13,6 +14,7 @@ const App = () => {
             <Route path="/konstalacije" element={<KonstalacijePage />} />
             <Route path="/radionice" element={<RadionicePage />} />
             <Route path="/linkovi" element={<LinkoviPage />} />
+            <Route path="/esabout" element={<AboutPageEs />} />
         </Routes>
     );
 };

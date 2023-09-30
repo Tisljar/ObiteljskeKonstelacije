@@ -1,0 +1,30 @@
+.stablo {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn-center {
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.img-container {
+    border-radius: 8px;
+}
+
+.fraktal {
+    border-radius: 4px;
+}
+
+.mg-top-80 {
+    margin-top: 80px;
+}
+
+.img-description {
+    line-height: 1.2;
+}
