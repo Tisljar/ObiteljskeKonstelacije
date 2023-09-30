@@ -1,4 +1,4 @@
-const Termini = () => {
+const TerminiEs = () => {
     return (
         <>
             <section className="termini">
@@ -35,4 +35,4 @@ const Termini = () => {
     );
 };
 
-export default Termini;
+export default TerminiEs;
