@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da80976e.css",
+    "main.js": "/static/js/main.c3c6869b.js",
+    "static/media/ObiteljskeKonstalacijeFraktal.png": "/static/media/ObiteljskeKonstalacijeFraktal.fa97c6ba1dee00afa287.png",
+    "static/media/ankica-jagnjic.png": "/static/media/ankica-jagnjic.3c457777b935b6c1e0ab.png",
+    "static/media/nacrt.png": "/static/media/nacrt.97dd0ae6d2f51b8fe071.png",
+    "static/media/Logo-white.png": "/static/media/Logo-white.46e9ac7e0921c97bc386.png",
+    "index.html": "/index.html",
+    "main.da80976e.css.map": "/static/css/main.da80976e.css.map",
+    "main.c3c6869b.js.map": "/static/js/main.c3c6869b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da80976e.css",
+    "static/js/main.c3c6869b.js"
+  ]
+}
