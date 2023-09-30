@@ -4,14 +4,32 @@ const Termini = () => {
             <section className="termini">
                 <h2>Raspored radionica i susreta</h2>
                 <p>Radionice održavam jedan do dva puta mjesečno, on-line ili uživo</p>
-                <p>Obzirom da prostor Apolon-a više nije dostupan, sljedeći termini su samo za on-line radionice:</p>
+                <p>
+                    Svaki drugi četvrtak odvijaju se mini-radionice, sa uvodnim predavanjem na konstelacijske teme te
+                    zajedničkim vježbama ili sa osobnim postavama.
+                </p>
+                <p>Termini mini radionica:</p>
                 <ul>
                     <li>
-                        <b>8.7.2023, subota, od 14 do 19</b>
+                        <b>5.10.2023.</b>
+                    </li>
+                    <li>
+                        <b>19.10.2023.</b>
+                    </li>
+                    <li>
+                        <b>2.11.2023.</b>
+                    </li>
+                    <li>
+                        <b>16.11.2033</b>
                     </li>
                 </ul>
-                <p>Termini individualnih susreta, uživo ili on-line su po dogovoru.</p>
-                <p>Za sve radionice i individualne radove, prijave na ankica.konstelacije@gmail.com</p>
+                <p>
+                    Prijave za mini radionice na:<b> vgaracic@gmail.com</b>
+                </p>
+                <p>
+                    Termini individualnih susreta, uživo ili on-line su po dogovoru.
+                    <br /> Prijave su na mail: <b> ankica.konstelacije@gmail.com </b>
+                </p>
             </section>
         </>
     );
