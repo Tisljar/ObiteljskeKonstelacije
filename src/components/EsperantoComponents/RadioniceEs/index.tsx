@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import './index.css';
 
 const RadioniceEs = () => {
-    const nacrt = require('../../assets/img/nacrt.png');
+    const nacrt = require('../../../assets/img/nacrt.png');
     return (
         <>
             <div className="row">

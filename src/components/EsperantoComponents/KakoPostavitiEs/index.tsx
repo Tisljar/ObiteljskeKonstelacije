@@ -1,5 +1,5 @@
 const KakoPostavitiEs = () => {
-    const nacrt = require('../../assets/img/nacrt.png');
+    const nacrt = require('../../../assets/img/nacrt.png');
     return (
         <>
             <div className="row">

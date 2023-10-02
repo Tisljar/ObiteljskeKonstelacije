@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import './index.css';
 
 const AboutMeEs = () => {
-    const ankicaJagnjic = require('../../assets/img/ankica-jagnjic.png');
+    const ankicaJagnjic = require('../../../assets/img/ankica-jagnjic.png');
     return (
         <>
             <div className="row">

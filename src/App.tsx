@@ -5,6 +5,10 @@ import KonstalacijePage from './pages/KonstalacijePage';
 import LinkoviPage from './pages/LinkoviPage';
 import RadionicePage from './pages/RadionicePage';
 import AboutPageEs from './pages/EsperantoPages/AboutPageEs/AboutPageEs';
+import HomePageEs from './pages/EsperantoPages/HomePageEs';
+import KonstalacijePageEs from './pages/EsperantoPages/KonstalacijePageEs';
+import RadionicePageEs from './pages/EsperantoPages/RadionicePageEs';
+import LinkoviPageEs from './pages/EsperantoPages/LinkoviPageEs';
 
 const App = () => {
     return (

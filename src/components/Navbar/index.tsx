@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     const logoWhite = require('../../assets/img/Logo-white.png');
+    const esperantoFlag = require('../../assets/img/Esperanto-flago.png');
     return (
         <section className="top-nav">
             <Link to={'/'}>
@@ -37,8 +38,8 @@ const Navbar = () => {
                     </Link>
                 </li>
                 <li>
-                    <Link to={'/esabout'} className="logo">
-                        Esperanto
+                    <Link to={'/es'}>
+                        <img src={esperantoFlag} alt="" className="logo" />
                     </Link>
                 </li>
             </ul>

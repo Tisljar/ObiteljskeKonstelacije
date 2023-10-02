@@ -1,7 +1,7 @@
 import './index.css';
 
 const OKonstalacijamaEs = () => {
-    const obiteljskeKonstalacije = require('../../assets/img/ObiteljskeKonstalacijeFraktal.png');
+    const obiteljskeKonstalacije = require('../../../assets/img/ObiteljskeKonstalacijeFraktal.png');
     return (
         <>
             <div className="row">

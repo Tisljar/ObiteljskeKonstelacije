@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import './index.css';
 
 const ObiteljskeKonstalacijeEs = () => {
-    const obiteljskeKonstalacije = require('../../assets/img/ObiteljskeKonstalacijeFraktal.png');
+    const obiteljskeKonstalacije = require('../../../assets/img/ObiteljskeKonstalacijeFraktal.png');
     return (
         <>
             <div className="row">

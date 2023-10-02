@@ -2,10 +2,11 @@ import './index.css';
 import { Link } from 'react-router-dom';
 
 const NavbarEs = () => {
-    const logoWhite = require('../../assets/img/Logo-white.png');
+    const logoWhite = require('../../../assets/img/Logo-white.png');
+    const croatianFlag = require('../../../assets/img/Croatian-Flag.png');
     return (
         <section className="top-nav">
-            <Link to={'/'}>
+            <Link to={'/es'}>
                 <div>
                     <img src={logoWhite} alt="" className="logo" />
                 </div>
@@ -16,24 +17,29 @@ const NavbarEs = () => {
             </label>
             <ul className="menu">
                 <li>
-                    <Link to={'/about'} className="link">
+                    <Link to={'/esabout'} className="link">
                         O Meni
                     </Link>
                 </li>
 
                 <li>
-                    <Link to={'/konstalacije'} className="link">
+                    <Link to={'/eskonstalacije'} className="link">
                         Obiteljske konstelacije
                     </Link>
                 </li>
                 <li>
-                    <Link to={'/radionice'} className="link">
+                    <Link to={'/esradionice'} className="link">
                         Radionice i susreti
                     </Link>
                 </li>
                 <li>
-                    <Link to={'/linkovi'} className="link">
+                    <Link to={'/eslinkovi'} className="link">
                         Korisni linkovi
+                    </Link>
+                </li>
+                <li>
+                    <Link to={'/'}>
+                        <img src={croatianFlag} alt="" className="logo" />
                     </Link>
                 </li>
             </ul>

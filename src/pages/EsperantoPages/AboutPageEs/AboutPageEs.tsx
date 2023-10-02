@@ -1,8 +1,7 @@
-import Footer from '../../../components/Footer';
-import Navbar from '../../../components/Navbar';
+import FooterEs from '../../../components/EsperantoComponents/FooterEs';
+import NavbarEs from '../../../components/EsperantoComponents/NavbarEs';
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
-import Accordion from '../../../components/Accordion';
 import AboutArticlesEs from '../../../components/EsperantoComponents/AboutArticlesEs';
 import AboutMeNoBtnEs from '../../../components/EsperantoComponents/AboutMeNoBtnEs';
 
@@ -15,7 +14,7 @@ const AboutPageEs = () => {
     return (
         <div className="page">
             <header>
-                <Navbar />
+                <NavbarEs />
             </header>
             <main>
                 <div className="flex-container">
@@ -24,7 +23,7 @@ const AboutPageEs = () => {
                 </div>
             </main>
             <footer>
-                <Footer />
+                <FooterEs />
             </footer>
         </div>
     );
