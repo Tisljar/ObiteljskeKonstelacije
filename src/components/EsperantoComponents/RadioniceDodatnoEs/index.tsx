@@ -5,26 +5,27 @@ const RadioniceDodatnoEs = () => {
         <>
             <div className="row">
                 <div className="col-md-12 col-td-12 col-12">
-                    <h2>Postavljanje konstelacija</h2>
+                    <h2>Farante la konstelacion</h2>
                     <p>
-                        Rad se može postaviti grupno ili individualno.
-                        <br /> Radom u grupi dobijete energetsku i emocionalnu podršku drugih sudionika, dobijete
-                        priliku učestvovati ili samo promatrati radove drugih sudionika u kojima možete dobiti snažne i
-                        važne uvide
+                        La laboro povas esti agordita grupe aŭ individue.
+                        <br /> Laborante en grupo, vi ricevas energian kaj emocian subtenon de aliaj partoprenantoj, vi
+                        ricevas la ŝancon partopreni aŭ simple observi la laboron de aliaj partoprenantoj, en kiuj vi
+                        povas akiri potencajn kaj gravajn komprenojn.
                     </p>
                     <p>
-                        Kroz individualni rad dobijete mirniji i intimniji prostor za rad. Za sve koji se boje ili ne
-                        mogu otvoriti prema grupi, individualni rad je dobar odabir. Rad se može postaviti uživo ili
-                        on-line.
-                        <br /> Bez obzira KAKO postavljate rad, najvažnije za uspjeh rada je JASNA UNUTARNJA NAMJERA i
-                        volja za promjenom.
+                        Per individua laboro, vi ricevas pli trankvilan kaj pli intiman spacon por laboro. Por ĉiu, kiu
+                        timas aŭ ne kapablas malfermiĝi al grupo, individua laboro estas bona elekto. La poziciigado
+                        povas okazi en personaj renkontiĝoj aŭ rete.
+                        <br /> Sendepende KIEL vi starigas la laboron, la plej grava afero por la sukceso de la laboro
+                        estas KLARA INTERNA INTENCO kaj la volo ŝanĝiĝi.
                     </p>
                     <p>
-                        Ponekad nam to dođe kao osjećaj „već mi je ovoga dosta“, ponekad „ne želim ovu bol“ ili „vrijeme
-                        je za promjene“ ili „umorna sam od pokušaja! Ili… Bez obzira kako se namjera uobliči, opustite
-                        misli, otvorite srce, otvorite se prema onom što može doći.
-                        <br /> Neće doći ni previše ni premalo, doći će ono što trebate, koliko trebate i u obliku u
-                        kojem trebate.
+                        Foje ĝi venas al ni kiel sento de &quot;mi havis sufiĉe de ĉi tio&quot;, foje &quot;mi ne volas
+                        ĉi tiun doloron&quot; aŭ &quot;estas tempo por ŝanĝo&quot; aŭ &quot;mi estas laca de provado!
+                        Aŭ...
+                        <br /> Kiel ajn la intenco formiĝas, malstreĉu vian menson, malfermu vian koron, malfermu vin al
+                        tio, kio povas veni. Nek tro, nek tro malmulte venos, venos tio, kion vi bezonas, kiom vi
+                        bezonas kaj en la formo en kiu vi bezonas.
                     </p>
                 </div>
             </div>

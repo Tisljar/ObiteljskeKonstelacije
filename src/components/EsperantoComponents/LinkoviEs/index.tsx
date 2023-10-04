@@ -5,12 +5,15 @@ const LinkoviEs = () => {
     return (
         <>
             <div className="row">
-                <h2>Videozapisi i linkovi</h2>
+                <h2>Videoj kaj ligiloj</h2>
             </div>
             <div className="row">
                 <div className="col-md-12 col-td-6 col-6">
                     <div className="yt-title mg-top-20">
-                        <h3>Prilog u Tv-emisiji: Dobro jutro Hrvatska, povodom seminara Stefana Hausera</h3>
+                        <h3>
+                            Kontribuo en la televida programo: Bonan matenon Kroatio, okaze de la seminario de Stefan
+                            Hauser
+                        </h3>
                     </div>
                     <iframe
                         width="100%"
@@ -22,7 +25,7 @@ const LinkoviEs = () => {
                 </div>
                 <div className="col-md-12 col-td-6 col-6">
                     <div className="yt-title mg-top-20">
-                        <h3>NA RUBU ZNANOSTI – Sistemske konstelacije, razgovor sa Stefanom Hauserom</h3>
+                        <h3>ĈE LA RANDO DE LA SCIENCO – Sistemaj konstelacioj, konversacio kun Stefan Hauser</h3>
                     </div>
                     <iframe
                         width="100%"
@@ -37,7 +40,7 @@ const LinkoviEs = () => {
                     <div className="col-4"></div>
                     <div className="col-4 center mg-top-20">
                         <Link to={'linkovi'}>
-                            <button className="btn-default">Pogledajte još</button>
+                            <button className="btn-default">Regardu plu</button>
                         </Link>
                     </div>
                     <div className="col-4"></div>

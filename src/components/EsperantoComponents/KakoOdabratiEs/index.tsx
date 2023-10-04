@@ -2,18 +2,18 @@ const KakoOdabratiEs = () => {
     return (
         <div className="row">
             <div className="col-12">
-                <h2>Kako odabrati metodu i konstelatora?</h2>
+                <h2>Kiel elekti metodon kaj konstelacion?</h2>
                 <p>
-                    Konstelacijska metoda cijeni onaj fini osjećaj koji nam kroz tijelo ili iz oblaka padne napamet!.
-                    Neki to zovu intuicija, neki drugačije. U svakom slučaju - vjerujte svom osjećaju. Kod odabira
-                    terapije, vremena za terapiju i osobe koja će sudjelovati u terapijskom radu s vama koja će vas
-                    blago i nježno voditi kroz postupak sagledavanja, uvida, rasterećenja, integracije…
+                    La konstelacia metodo aprezas tiun fajnan senton, kiu venas al la menso tra la korpo aŭ subite
+                    aperas kiel neantaŭvidita penso!. Iuj nomas ĝin intuicio, iuj nomas ĝin alie. Fidu vian senton
+                    elektante terapion, la tempon por terapio kaj la personon, kiu partoprenos en la terapia laboro kun
+                    vi, kiu milde gvidos vin tra la procezo de observado, kompreno, reliefo, integriĝo...
                 </p>
-                <p>Svako nađe svoju metodu i svog konstelatora i svoje vrijeme rad.</p>
+                <p>Ĉiu trovas sian propran metodon kaj sian propran konstelacion kaj sian propran tempon de laboro.</p>
                 <p>
-                    Samo molim bez pritiska, bez samokritičnosti, bez potrebe za kopanjem po sebi i obitelji, traženja
-                    krivaca i uzroka. Rad na sebi ne treba biti mučenje već oslobađanje, pod vašim uvjetima. Svi mi,
-                    terapeuti i konstelatora smo tu za vaše potrebe, uz vaše uvjete..
+                    Mi nur petas sen premo, sen memkritiko, sen neceso enfosi vian kaj sorton de via familio, ne serĉu
+                    kulpulojn kaj kaŭzojn. Labori pri vi mem ne devus esti torturo sed liberigo, laŭ viaj kondiĉoj. Ni
+                    ĉiuj, terapiistoj kaj konstelantoj, estas ĉi tie por viaj bezonoj, kun viaj kondiĉoj..
                 </p>
             </div>
         </div>

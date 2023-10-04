@@ -3,12 +3,13 @@ const VrsteKonstalacijaEs = () => {
         <>
             <div className="row">
                 <div className="col-12">
-                    <h2>Vrste Konstelacija</h2>
-                    <p>Konstelacijska metoda započela se koristiti za osobne i obiteljske zapetljaje.</p>
+                    <h2>Tipoj de konstelacioj</h2>
+                    <p>La konstelacia metodo komence esti uzata por personaj kaj familiaj implikiĝoj.</p>
                     <p>
-                        Uskoro je zamječeno da princip pripadanja i poretka djeluje i u drugim sustavima.Tako su se
-                        razvile sistemske konstelacije, poslovne konstelacije, astrološke konstelacije, .. Mnogi
-                        terapeuti kroz svoje metode provlače i osnovne konstelacijske postavke i alate.
+                        Baldaŭ oni rimarkis, ke la saamaj principoj de aparteno kaj ordo regas ankaŭ en aliaj sistemoj
+                        kaj ke la sama metodo helpas. Tiel disvolviĝis sistemaj konstelacioj, komercaj konstelacioj,
+                        astrologiaj konstelacioj ktp.. Multaj terapiistoj uzas bazajn konstelaciajn agordojn kaj ilojn
+                        ene de siaj metodoj.
                     </p>
                 </div>
             </div>

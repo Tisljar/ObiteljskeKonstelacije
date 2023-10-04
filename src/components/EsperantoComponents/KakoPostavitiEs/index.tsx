@@ -4,38 +4,40 @@ const KakoPostavitiEs = () => {
         <>
             <div className="row">
                 <div className="col-12">
-                    <h2>Kako se pripremiti za rad?</h2>
+                    <h2>Kiel preparĝi?</h2>
                     <p>
-                        Možete pokušati osjetiti na koje područje života najviše želite pogledati:
+                        Vi povas provi senti, kiun areon de vivo vi plej volas rigardi:
                         <br />
-                        partnerstvo, odnos s djecom, odnos s roditeljima, simptome i/ili bolesti, osjećaje
-                        nezadovoljstva u nekom dijelu života ili poslovna pitanja. Konkretna pitanja ostavite da se
-                        uobliče tijekom radionice.
+                        partnereco, rilato kun infanoj, rilato kun gepatroj, simptomoj kaj/aŭ malsanoj, sentoj de
+                        malkontento en iu parto de vivo aŭ komercaj aferoj. Lasu la specifajn demandojn formiĝi dum la
+                        laborrenkontiĝo.
                     </p>
                 </div>
             </div>
             <div className="row">
                 <div className="col-md-12 col-td-6 col-6">
                     <p>
-                        Za one izrazito uporne, predlažem nacrtati svoje obiteljsko stablo. U obitelji stablo pripadaju:{' '}
-                        <br />
+                        Por tiuj, kiuj estas ekstreme persistaj, mi sugestas desegni vian genealogian arbon.Por tiuj,
+                        kiuj estas ekstreme persistaj, mi sugestas desegni vian genealogian arbon: <br />
                     </p>
                     <ul>
-                        <li>partneri i djeca,</li>
-                        <li> roditelji i braća i sestre partnera,</li>
-                        <li>bake, djedovi, braća i sestre roditelja od partnera.</li>
+                        <li>partneroj kaj infanoj,</li>
+                        <li>gepatroj kaj gefratoj</li>
+                        <li>geavoj</li>
                         <li>
-                            djeca se crtaju redoslijedom kojim su rođena, prvi lijevi simbol je za prvorođeno dijete.
+                            Infanoj estas desegnitaj en la ordo en kiu ili naskiĝis, la unua maldekstra simbolo estas
+                            por la unuenaskita infano.
                         </li>
-                        <li>Nerođena djeca se crtaju iznad crte za vezu.</li>
-                        <li>Prekinuta veza je važna prethodna veza u kojoj nije bilo djece.</li>
+                        <li>Nenaskitaj infanoj estas tiritaj super la kunliga linio.</li>
+                        <li>Rompita rilato estas grava antaŭa rilato, en kiu ne estis infanoj.</li>
                         <li>
-                            Svaka veza u kojoj je bilo djece ima jednaku važnost i isti simbol, za vezu ili za prekid.
+                            Ĉiu rilato, en kiu estis infanoj, havas la saman gravecon kaj la saman simbolon, por la
+                            rilato aŭ por la rompo.
                         </li>
-                        <li>Izvan bračna veza je veza koja je istovremena sa brakom.</li>
+                        <li>Ekstergeedza rilato estas rilato kiu estas samtempa kun geedziĝo.</li>
                         <li>
-                            Za prerano preminule se upisuje godina rođenja i smrti te uzrok smrti: rat, nasilna smrt,
-                            bolest ili nesretni slučaj.
+                            Por la antaŭtempe mortinto, la naskiĝjaro kaj morto kaj la mortokaŭzo estas enmetitaj:
+                            milito, perforta morto, malsano aŭ akcidento.
                         </li>
                     </ul>
                 </div>
@@ -49,9 +51,11 @@ const KakoPostavitiEs = () => {
             <div className="row">
                 <div className="col-12">
                     <p>
-                        Pitajte svoje roditelje o njihovoj mladosti i mladosti njihovih roditelja, pitajte ih kada i
-                        kako su zaljubili, što im je bilo najljepše a što najteže. Podijelite i svoja iskustva sa svojom
-                        djecom. Veselimo se zajedničkom druženju i <br /> vidimo se na radionici
+                        Demandu viajn gepatrojn pri ilia juneco kaj la juneco de iliaj gepatroj, demandu ilin kiam kaj
+                        kiel ili enamiĝis, kio estis la plej bela kaj la plej malfacila afero por ili. Kunhavigu viajn
+                        spertojn kun viaj infanoj. <br />
+                        Ni antaŭĝojas pasigi tempon kune kaj ĝis revido en la laborrenkontiĝo Sendu al mi retpoŝton kun
+                        petskribo aŭ enketo!
                     </p>
                 </div>
             </div>

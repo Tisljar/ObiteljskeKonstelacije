@@ -18,23 +18,23 @@ const NavbarEs = () => {
             <ul className="menu">
                 <li>
                     <Link to={'/esabout'} className="link">
-                        O Meni
+                        Pli mi
                     </Link>
                 </li>
 
                 <li>
                     <Link to={'/eskonstalacije'} className="link">
-                        Obiteljske konstelacije
+                        Familiaj Konstalacioj
                     </Link>
                 </li>
                 <li>
                     <Link to={'/esradionice'} className="link">
-                        Radionice i susreti
+                        Sesijoj
                     </Link>
                 </li>
                 <li>
                     <Link to={'/eslinkovi'} className="link">
-                        Korisni linkovi
+                        Video kaj ligiloj
                     </Link>
                 </li>
                 <li>

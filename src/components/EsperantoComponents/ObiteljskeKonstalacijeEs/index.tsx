@@ -7,25 +7,25 @@ const ObiteljskeKonstalacijeEs = () => {
         <>
             <div className="row">
                 <div className="col-md-12 col-td-6 col-7">
-                    <h1>Što su obiteljske konstelacije?</h1>
+                    <h1>Kio estas familiaj konstelacioj?</h1>
                     <p>
-                        Osnivač metode obiteljskih ili sistemskih konstelacija, Bert Hellinger u ovoj metodi uspješno je
-                        primijenio principe psihologije i duhovnosti te omogućio dublji uvid u složene sustave
-                        međuljudskih odnosa.
+                        La fondinto de la metodo de familiaj aŭ sistemaj konstelacioj, Bert Hellinger sukcese aplikis la
+                        principojn de psikologio kaj spiriteco en ĉi tiu metodo kaj disponigis pli profundan komprenon
+                        pri la kompleksaj sistemoj de interhomaj rilatoj.
                     </p>
                     <p>
-                        Osnovna postavka ove metode je da u obitelji, kao i u svim drugim sustavima kojima pripadamo,
-                        djeluje poredak ljubavi koji omogućava prijenos ljubavi i životne energije na sve članove
-                        sustava. Kada svi članovi imaju osjećaj pripadanja i kada svi članovi poštuju poredak, život se
-                        odvija svojim punim potencijalom.
+                        La baza premiso de ĉi tiu metodo estas, ke en la familio, kiel en ĉiuj aliaj sistemoj, al kiuj
+                        ni apartenas, ekzistas ordo de amo, kiu ebligas la translokigon de amo kaj vivenergio al ĉiuj
+                        membroj de la sistemo. Kiam ĉiuj membroj havas senton de aparteno kaj kiam ĉiuj membroj
+                        respektas ordon, la vivo disvolviĝas al sia plena potencialo.
                     </p>
                     <p>
-                        Na obiteljskim konstelacijama ćete dobiti uvid zašto je do sada nešto bilo i kako iz prošlosti
-                        preuzeti mudrost i snagu za ostvarenje ciljeva u budućnosti.
+                        Farante familian konstelacion, vi ekkomprenos kial io okazis ĝis nun kaj kiel preni saĝon kaj
+                        forton de la pasinteco por atingi celojn en la estonteco.
                     </p>
-                    <p>Ova metoda najčešće se primjenjuje na radionicama ali je moguć i individualni rad.</p>
+                    <p>Ĉi tiu metodo estas plej ofte aplikata en grupa laboro, sed ankaŭ eblas individua laboro.</p>
                     <Link to={'/konstalacije'}>
-                        <button className="md-padding-bottom btn-default">Saznajte više</button>
+                        <button className="md-padding-bottom btn-default">Eksciu plu</button>
                     </Link>
                 </div>
                 <div className="col-md-12 col-td-1 col-1"></div>
@@ -37,9 +37,9 @@ const ObiteljskeKonstalacijeEs = () => {
                         className="fraktal"
                     />
                     <p className="img-description">
-                        Fraktali su geometrijski objekti koji su samoslični, sastoje se od umanjenih inačica samih sebe.
-                        Slično je sa obiteljima: svaka obitelj je sastavljena od slike svojih članova, a svaka osoba je
-                        umanjena slika svoje obitelji.
+                        Fraktaloj estas geometriaj objektoj kiuj estas sinsimilaj, konsistante el reduktitaj versioj de
+                        si mem. Simile estas kun familioj: ĉiu familio estas kunmetita de siaj membroj, kaj ĉiu persono
+                        estas reduktita bildo de sia familio.
                     </p>
                 </div>
             </div>

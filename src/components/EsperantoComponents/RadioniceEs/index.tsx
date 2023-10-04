@@ -6,27 +6,30 @@ const RadioniceEs = () => {
     return (
         <>
             <div className="row">
-                <h1>Radionice i susreti</h1>
+                <h1>Grupaj kaj individuaj sesioj</h1>
             </div>
             <div className="row">
                 <div className="col-md-12 col-td-6 col-6">
                     <p>
-                        Ukoliko do sada niste imali iskustvo s konstelacijama, vjerojatno imate potrebu dobiti neku
-                        vrsta uputa kako se pripremiti za radionicu.
-                        <br /> Najiskreniji i najpotpuniji odgovor bi bio: NIŠTA!
-                        <br /> Iz najave radionice i iz informacija koje ste odprije imali, dobili ste podstrek da se
-                        prijavite, spremnost da na stara pitanja dobijete odgovore na novi način. Time ste pokazali
-                        otvorenost za ovaj, sistemski pogled na sebe i svoj obiteljski sustav. I to je za sada dovoljno.
+                        Se vi ne havis sperton kun konstelacioj antaŭe, vi verŝajne esperas havi ian instrukcion pri
+                        kiel prepari por la laboro.
+                        <br /> La plej honesta kaj kompleta respondo estus: NENIO!
+                        <br /> De la anonco de la laborrenkontiĝo kaj de la informoj, kiujn vi havis antaŭe, vi ricevis
+                        instigon aliĝi, volon ricevi respondojn al malnovaj demandoj en nova maniero. Farante tion, vi
+                        montris malfermitecon al ĉi tiu sistema vidpunkto pri vi mem kaj via familia sistemo. Kaj tio
+                        sufiĉas nuntempe.
                         <br />
-                        Konstelacije su tiha metoda u kojoj se uvidi i odgovori čitaju iz tjelesnih reakcija na
-                        podsvjesne upite i čežnje, otvaraju mogućnosti rješenja u tihom i dubokom dijalogu sa dušom,
-                        onkraj buke uma i emocija. Analiziranje i racionaliziranje, emocionalne akcije i reakcije mogu
-                        stvoriti ometanje u kojoj se šapat duše može zagubiti. Zato zadržite otvorenost prema novom, za
-                        početak je dovoljno.
+                        Konstelacioj estas silenta metodo, en kiu oni legas komprenojn kaj respondojn el la reagoj de la
+                        korpo pri la subkonsciaj demandoj kaj sopiroj, ili malfermas eblecojn por solvoj en silenta kaj
+                        profunda dialogo kun la animo, preter la bruo de la menso kaj emocioj. Analizi kaj raciigi,
+                        emociaj agoj kaj reagoj povas krei distraĵojn, en kiuj la flustroj de la animo povas perdiĝi.
                     </p>
-                    <p>Ukoliko želite proučiti dodatni materijal prije radionice možete saznati više:</p>
+                    <p>
+                        Do konservu vian malfermitecon al la nova, sufiĉas por komenci. Se vi volas studi plian
+                        materialon antaŭ la laborrenkontiĝo, vi povas ekscii pli:
+                    </p>
                     <Link to={'/radionice'}>
-                        <button className="btn-default">Saznajte više</button>
+                        <button className="btn-default">Eksciu pli</button>
                     </Link>
                 </div>
                 <div className="col-md-12 col-td-6 col-6  nacrt-center">

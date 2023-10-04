@@ -4,9 +4,9 @@ const LinkoviProširenoEs = () => {
     return (
         <>
             <div className="row">
-                <h2>Linkove na korisne sadržaje i informacije</h2>
+                <h2>Ligiloj al utila enhavo kaj informoj</h2>
                 <p>
-                    Članica sam sljedećih udruženja konstelatora:
+                    Mi estas membro de la jenaj konstelaciaj asocioj:
                     <ul>
                         <li>
                             ISCA -{' '}
@@ -34,16 +34,16 @@ const LinkoviProširenoEs = () => {
                     </ul>
                 </p>
                 <p>
-                    Dodatni zanimljivi i korisni linkovi:
+                    International Pliaj interesaj kaj utilaj ligiloj:
                     <ul>
-                        <li>stranica mojih učitelja Alemke i Max-a Dauskardta:</li>
+                        <li>la paĝo de miaj instruistoj Alemka kaj Max Dauskardt:</li>
                         <li>
                             <a
                                 href="https://konstelacijakroacija.wordpress.com/"
                                 className="learn"
                                 style={{ color: '#00509f' }}
                             >
-                                Zapisi na duši | Imprints on the Soul - Constellations according to Hellinger
+                                Notoj pri la animo | Impresoj sur la Animo - Konstelacioj laŭ Hellinger
                             </a>
                             <ul>
                                 <li>
@@ -52,7 +52,7 @@ const LinkoviProširenoEs = () => {
                                         className="learn"
                                         style={{ color: '#00509f' }}
                                     >
-                                        Sistemske Konstelacije | Zapisi na duši
+                                        Sistemaj Konstelacioj | Notoj pri la animo
                                     </a>
                                 </li>
                                 <li>
@@ -61,7 +61,7 @@ const LinkoviProširenoEs = () => {
                                         className="learn"
                                         style={{ color: '#00509f' }}
                                     >
-                                        Članci & Blogovi | Zapisi na duši
+                                        Artikoloj &amp; Blogoj | Notoj pri la animo
                                     </a>
                                 </li>
                                 <li>
@@ -70,7 +70,7 @@ const LinkoviProširenoEs = () => {
                                         className="learn"
                                         style={{ color: '#00509f' }}
                                     >
-                                        Blog | Zapisi na duši
+                                        Blogo | Notoj pri la animo
                                     </a>
                                 </li>
                                 <li>
@@ -79,7 +79,7 @@ const LinkoviProširenoEs = () => {
                                         className="learn"
                                         style={{ color: '#00509f' }}
                                     >
-                                        Resursi | Zapisi na duši
+                                        Rimedoj | Notoj pri la animo
                                     </a>
                                 </li>
                             </ul>
@@ -87,15 +87,15 @@ const LinkoviProširenoEs = () => {
                     </ul>
                 </p>
                 <p>
-                    Another Self - na Netflixu možete pogledati zanimljivu seriju koja dobro pokazuje principe sistemske
-                    i obiteljske ljubavi koji djeluje na nas.
+                    Alia Mem/ AnotherSelf - ĉe Netflix vi povas spekti interesan serion, kiu bone montras la principojn
+                    de sistema kaj familia amo.
                 </p>
                 <p>
-                    U seriji tri prijateljice uz pomoć konstelacija razrješavaju svoje životne poteškoće uvidom u
-                    prošlost svojih obitelji.
+                    En la serio, tri amikoj solvas siajn vivproblemojn kun la helpo de konstelacioj rigardante en la
+                    pasintecon de siaj familioj.
                     <ul>
                         <li>
-                            Najava na YouTube-u:
+                            Jutuba Anonco: Alia Mem | Oficiala Antaŭfilmo | Netflix Videoj kaj ligiloj
                             <a
                                 href="https://www.youtube.com/watch?v=Pzl33KQP8b4"
                                 className="learn"
@@ -109,7 +109,7 @@ const LinkoviProširenoEs = () => {
                 </p>
             </div>
             <div className="row">
-                <h2>Videozapisi i linkovi</h2>
+                <h2>Videoj kaj ligiloj</h2>
             </div>
             <div className="row">
                 <div className="col-md-12 col-td-6 col-6">

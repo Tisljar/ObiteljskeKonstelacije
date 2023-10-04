@@ -6,7 +6,7 @@ const AboutMeEs = () => {
     return (
         <>
             <div className="row">
-                <h2>O meni ESPERANTO</h2>
+                <h2>Pri mi</h2>
             </div>
             <div className="row">
                 <div className="col-md-12 col-td-5 col-4">
@@ -19,14 +19,15 @@ const AboutMeEs = () => {
                     <div className="about-content">
                         <p>
                             Ankica Jagnjić
-                            <br /> S konstelacijama se družim više od 15 godina, u početku za svoj osobni razvoj na
-                            radionicama Michaela Scheffera. <br /> Edukaciju za sistemskog konstelatora pohađala sam i
-                            završila kod Alemke i Maxa Dauskardta, iskusnih voditelja, školovanih u Australiji i
-                            Njemačkoj kod Berta Hellingera i drugih. Dodatno sam se educirala na seminarima svjetski
-                            poznatih konstelatora Stefana Hausnera, Cecilia Fernardez Regoja i Anngwyn St. Just.
+                            <br /> Mi uzas konstelacian manieron dum pli ol 20 jaroj, komence por mia persona evoluo ĉe
+                            la grupa laboro de Michael Scheffer.
+                            <br /> Mi kompletigis la sisteman konstelacian edukadon kun Alemka kaj Max Dauskardt,
+                            spertaj gvidantoj, edukita en Aŭstralio kaj Germanio de Bert Hellinger kaj aliaj. Mi estis
+                            krome edukita ĉe la seminarioj de la mondfamaj konstelantoj Stefan Hausner, Cecilia
+                            Fernardez Regoj kaj Angwyn St. Nur.
                         </p>
                         <Link to={'/about'}>
-                            <button className="btn-default mg-left">Pročitajte moje članke</button>
+                            <button className="btn-default mg-left">Legu miajn artikolojn</button>
                         </Link>
                     </div>
                 </div>
