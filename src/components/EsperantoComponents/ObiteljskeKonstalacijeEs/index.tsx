@@ -7,7 +7,7 @@ const ObiteljskeKonstalacijeEs = () => {
         <>
             <div className="row">
                 <div className="col-md-12 col-td-6 col-7">
-                    <h1>Kio estas familiaj konstelacioj?</h1>
+                    <h2>Kio estas familiaj konstelacioj?</h2>
                     <p>
                         La fondinto de la metodo de familiaj aŭ sistemaj konstelacioj, Bert Hellinger sukcese aplikis la
                         principojn de psikologio kaj spiriteco en ĉi tiu metodo kaj disponigis pli profundan komprenon
@@ -24,7 +24,7 @@ const ObiteljskeKonstalacijeEs = () => {
                         forton de la pasinteco por atingi celojn en la estonteco.
                     </p>
                     <p>Ĉi tiu metodo estas plej ofte aplikata en grupa laboro, sed ankaŭ eblas individua laboro.</p>
-                    <Link to={'/konstalacije'}>
+                    <Link to={'/eskonstalacije'}>
                         <button className="md-padding-bottom btn-default">Eksciu plu</button>
                     </Link>
                 </div>

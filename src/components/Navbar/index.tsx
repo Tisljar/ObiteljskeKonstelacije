@@ -39,7 +39,7 @@ const Navbar = () => {
                 </li>
                 <li>
                     <Link to={'/es'}>
-                        <img src={esperantoFlag} alt="" className="logo" />
+                        <img src={esperantoFlag} alt="" className="flag" />
                     </Link>
                 </li>
             </ul>

@@ -39,7 +39,7 @@ const NavbarEs = () => {
                 </li>
                 <li>
                     <Link to={'/'}>
-                        <img src={croatianFlag} alt="" className="logo" />
+                        <img src={croatianFlag} alt="" className="flag" />
                     </Link>
                 </li>
             </ul>

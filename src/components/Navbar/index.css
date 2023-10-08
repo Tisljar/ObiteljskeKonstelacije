@@ -16,6 +16,11 @@
     height: 54px;
     transform: rotateY(180deg);
 }
+.flag {
+    width: auto;
+    height: 54px;
+    padding-top: 8px;
+}
 .menu {
     display: flex;
     flex-direction: row;

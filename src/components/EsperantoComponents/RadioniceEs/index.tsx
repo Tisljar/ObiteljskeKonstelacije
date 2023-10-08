@@ -6,7 +6,7 @@ const RadioniceEs = () => {
     return (
         <>
             <div className="row">
-                <h1>Grupaj kaj individuaj sesioj</h1>
+                <h2>Grupaj kaj individuaj sesioj</h2>
             </div>
             <div className="row">
                 <div className="col-md-12 col-td-6 col-6">
@@ -28,7 +28,7 @@ const RadioniceEs = () => {
                         Do konservu vian malfermitecon al la nova, sufiĉas por komenci. Se vi volas studi plian
                         materialon antaŭ la laborrenkontiĝo, vi povas ekscii pli:
                     </p>
-                    <Link to={'/radionice'}>
+                    <Link to={'/esradionice'}>
                         <button className="btn-default">Eksciu pli</button>
                     </Link>
                 </div>

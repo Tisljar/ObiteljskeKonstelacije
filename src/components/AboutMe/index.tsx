@@ -25,7 +25,7 @@ const AboutMe = () => {
                             Njemačkoj kod Berta Hellingera i drugih. Dodatno sam se educirala na seminarima svjetski
                             poznatih konstelatora Stefana Hausnera, Cecilia Fernardez Regoja i Anngwyn St. Just.
                         </p>
-                        <Link to={'/about'}>
+                        <Link to={'/esabout'}>
                             <button className="btn-default mg-left">Pročitajte moje članke</button>
                         </Link>
                     </div>

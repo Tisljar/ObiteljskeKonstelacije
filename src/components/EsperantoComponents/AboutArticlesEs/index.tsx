@@ -1,141 +1,133 @@
 const AboutArticlesEs = () => {
     return (
         <>
-            <h2>Moji Članci</h2>
+            <h2>Miaj Artikoloj</h2>
             <ul className="accordion-ul">
                 <li className="accordion-li">
                     <input type="checkbox" defaultChecked={true} />
                     <i className="mg-top-arrow"></i>
-                    <h2 className="accordion-title">Prihvatiti život</h2>
+                    <h2 className="accordion-title">Akceptu la vivon</h2>
                     <p>
-                        Na prošle dvije grupe dogodilo se nekoliko postava sa obiteljima u kojima je obitelji, naročito
-                        majka i otac, bili energetski slomljeni, sudbina im je bila tako teška da su jedva imali snage
-                        proslijediti život.
+                        Ofte okazas ke membroj de familioj, precipe la patrino kaj patro, estis energie rompitaj, ilia
+                        sorto estis tiel malfacila, ke ili apenaŭ havis la forton por transdoni la vivon.
                     </p>
                     <p>
-                        Djeca su i tim postavama postupila na dva različita načina: ili su se odmakla, pobjegla,
-                        zatvorila jer im je bilo pre strašno i preteško li su se stopila i gotovo utopila u teretima
-                        pokušavajući pomoći.
+                        La infanoj reagas en du malsamaj manieroj: aŭ ili foriris de familio, forkuris, fermis sin
+                        emocie ĉar ĝi estis tro timiga por ili, aŭ ili kunfandiĝis tro forte kaj provante helpi preskaŭ
+                        dronis en la ŝarĝoj.
+                    </p>
+                    <p>Ambaŭ elektoj post iom da tempo devus fari la samon: akcepti sian vivon tia, kia ĝi estas.</p>
+                    <p>
+                        Tiuj, kiuj forkuris kaj rifuzis partopreni, devas reveni, rigardi, senti la ŝarĝon, vidi la
+                        malfacilan sorton sed ankaŭ senti la forton en la rompitaj animoj. Kun profunda respekto. En
+                        ĉiuj tiuj, kiuj travivis, por ke iliaj posteuloj vivu.
                     </p>
                     <p>
-                        I jedan i drugi izbor nakon nekog vremena trebaju učiniti isto: prihvatiti svoj život onakav
-                        kakav jest.
+                        Tiuj, kiuj provis helpi, devus retiriĝi, lasi la ŝarĝon al tiuj, al kiuj ĝi apartenas, ĉesu per
+                        sia infana amo fliki en la vivon de aliaj homoj. Ĉar ili malrapide malŝaltas la energion por
+                        vivi sian vivon. Rigardi malfacilan sorton kaj senti la forton en rompitaj animoj. Kun profunda
+                        respekto. En ĉiuj kiuj travivis por ke iliaj posteuloj vivu.
+                    </p>
+                    <p>Kaj en ambaŭ kazoj, senti forton, kiu estis transdonita al ili de iliaj prapatroj.</p>
+                    <p>
+                        La liberiga frazo sonas enigme:{' '}
+                        <b>mi akceptas mian vivon, mi havis sufiĉe, mi mem prizorgos la ceterajn.</b>
+                    </p>
+                    <p>Ĉi tie kutime okazas rezisto - sufiĉe!! Mi devus kaj meritis pli!!</p>
+                    <p>Vi meritas, sed vi ricevis tion, kio eblis.</p>
+                    <p>
+                        Kaj sufiĉis ĉar vi venis en la mondon kaj vi vivas! Antaŭ ĉio. Kaj ni mem respondecas prizorgi
+                        pri la resto. Kun nia decido vivi, nia malfermo al la mondo kaj homoj, nia volemo rimarki kaj
+                        altiri la helpon de la universo/dio/pli alta potenco.
+                    </p>
+                    <p> Kaj ni ĉiam ricevas helpon.</p>
+                    <p>
+                        De la flegistino, kiu malsekigas nian buŝon antaŭ operacio, de la onklino, kiu kisas la vundon
+                        sur nia kruro, de la instruisto, kiu enŝovas en ni pasion por libroj, de la najbaro, kiu bakas
+                        al ni kukojn, de la estro, kiu instruas nin akcepti aŭtoritaton , de la afableco de fremdulo,
+                        kiu rimarkas, ke vi estas deprimita...
                     </p>
                     <p>
-                        Oni koji su pobjegli i odbili sudjelovati moraju se vratiti, pogledati, osjetiti teret,
-                        sagledati tešku sudbinu ali i osjetiti snagu u polomljenim dušama. S punim poštovanjem. U svima
-                        koji su preživjeli da bi njihovi potomci djeca živjela.
-                    </p>
-                    <p>
-                        Oni koji su pokušali pomoći, trebaju se odmaknuti, ostaviti teret onima kojima pripada, odustati
-                        da svojom dječjom ljubavlju krpaju tuđe živote. Jer tako polako gase svoj. Sagledati tešku
-                        sudbinu i osjetiti snagu u polomljenim dušama. S punim poštovanjem. U svima koji su preživjeli
-                        da bi njihova djeca živjela.
-                    </p>
-                    <p>
-                        I oba slučaja, osjetiti svoju snagu, koja im je proslijeđena od predaka i koja im je omogućila
-                        da uspravno &#40; možda malo slomljeno &#41; pogledaju u ono što treba biti viđeno i poštivano.
-                    </p>
-                    <p>
-                        Rečenica koja oslobađa zvuči zagonetno:{' '}
-                        <b>Prihvaćam svoj život, dobila sam dovoljno, za ostao ću se pobrinuti sam/sama.</b>
-                    </p>
-                    <p>Tu se obično javlja otpor &#8722; kako dovoljno!! Trebao sam i zaslužila/o više!!</p>
-                    <p>
-                        Jesi, ali si dobio ono što je bilo moguće. I bilo je dovoljno jer došao si na svijet i živ/a si!
-                    </p>
-                    <p>Za početak.</p>
-                    <p>
-                        A za ostalo smo odgovorni pobrinuti se sami. Svojom odlukom da živimo, svojom otvorenošću prema
-                        svijetu i ljudima, spremnošću da primijetimo i privlačimo pomoć svemira/boga/više sile..
-                    </p>
-                    <p>I uvijek dobijemo pomoć.</p>
-                    <p>
-                        Od medicinske sestra koja nam vlaži usta prije operacije, od tete koja nam ljubi ranu na nozi,
-                        od učiteljice koja nam usadi strast prema knjizi, prema susjedi koja nam peče kolače, šefa koji
-                        nas nauči prihvatiti autoritet, od ljubaznosti stranca koji primijeti da ste utučeni… I tako
-                        svaki dan, cijeli život. Ako to primijetimo. A često nam promakne primijetiti i cijeniti. I tu
-                        je naša odgovornost. Da vidimo da je ŽIVOT uz nas,
-                    </p>
-                    <p>
-                        Naša je odgovornost da budemo otvoreni prema tim malim/velikim poklonima, da ih primijetimo i da
-                        budemo zahvalni. Jer i to je dio životne energije koju smo primili i primamo.
+                        Kaj tiel ĉiutage, la tutan vivon. Se ni rimarkas tion. Kaj ni ofte malsukcesas rimarki kaj
+                        aprezi. Ofte ni preferas plendi. Kaj tie estas nia respondeco. Por vidi, ke VIVO estas kun ni,
+                        estas nia respondeco esti rimarkinta al ĉi tiuj malgrandaj/grandaj donacoj, rimarki ilin kaj
+                        esti dankema.
                     </p>
                 </li>
                 <li className="accordion-li">
                     <input type="checkbox" defaultChecked={true} />
                     <i></i>
-                    <h2 className="accordion-title">Biti Roditelj</h2>
+                    <h2 className="accordion-title">Esti gepatro de plenkreskulo</h2>
                     <p>
-                        Jednom prilikom, moja me kćer pitala što mi je kao roditelju bilo najkompliciranije. Odgovor ju
-                        je možda iznenadio &#8722; najizazovnije su bile stalne promjene moje djece za koje sam i ja
-                        morala stalno mijenjati moju ulogu roditelja i način na koji sam s njima komunicirala, na koji
-                        sam bila dio njihovog života i oni mog.
+                        Foje, mia filino demandis min, kio por mi estas la plej komplika afero estante patrino.La
+                        respondo eble surprizis ŝin - la plej malfacilaj estis la konstantaj ŝanĝoj de miaj infanoj, por
+                        kiuj mi ankaŭ devis konstante ŝanĝi mian rolon kiel patrino kaj la manieron kiel mi komunikis
+                        kun ili, la manieron kiel mi estis parto de iliaj vivoj kaj ili. mia.
                     </p>
                     <p>
-                        Biti roditelj postaje se već u svojoj obitelji, prihvaćajući svoje roditelje, tete, bake, sve
-                        žene u svojoj kulturi i podneblju. Prihvaćanjem uloge žene i uloge majčinstva. To je neki
-                        maglovit osjećaj: „jednog dana biti ću majka“.
+                        Esti patrino fariĝas jam en via familio, akceptante viajn gepatrojn, onklinojn, avinojn, ĉiujn
+                        virinojn en via kulturo kaj klimato. Akceptante la rolon de virino kaj la rolon de patrineco.
+                        Estas malklara sento: &quot;iun tagon mi estos patrino&quot;.
                     </p>
                     <p>
-                        Sljedeći korak je u partnerstvu, odabrati oca svoje djece, osjećati se sigurno da svijete
-                        gnijezdo.
+                        La sekva paŝo estas en partnereco, elekti la patron de viaj infanoj, senti vin sekura ke ni
+                        komencus fari neston.
                     </p>
                     <p>
-                        Pravu spremnost testira trudnoća i rođenje i sva bura emocija, hormona, promjena životnih
-                        uvjeta, novih mogućnosti i novih ograničenja. Osloboditi dio svojih kapaciteta i svjesno ih
-                        pokloniti onom dijelu sebe koji odabire biti majka. Posložiti prioritete. I ma koliko to bilo
-                        zbunjujuće, to je tek početak…
+                        Vera preteco estas provita de gravedeco kaj naskiĝo kaj la tuta ŝtormo de emocioj, hormonoj,
+                        ŝanĝoj en vivkondiĉoj, novaj eblecoj kaj novaj limigoj. Liberigi parton de viaj kapabloj kaj
+                        konscie doni ilin al tiu parto de vi, kiu elektas esti patrino. Aranĝu prioritatojn. Kaj kiel
+                        ajn konfuza estas tio, ĝi estas nur la komenco...
                     </p>
                     <p>
-                        Na brzinu ću proći zanimljiv dio stalnih promjena: zauzimanje prostora od puzanja, hodanja,
-                        trčanja, penjanja. Kad se naviknete na pogled bezuvjetne ljubavi, a onda vas „ostavi“ i krene u
-                        avanturu stvaranja dječjih prijateljstava, zatim škola kada autoritet roditelja bude zaljuljan
-                        autoritetom učiteljice, zatim autoritetom prijatelja, društva… i polako se vaše bespomoćno
-                        „bundle of joy“ pretvara u odraslu osobu.
+                        Mi rapide trairos la interesan parton de konstantaj ŝanĝoj: okupado de spaco de rampado,
+                        promenado, kurado, grimpado. Kiam vi alkutimiĝas al la rigardo de senkondiĉa amo, kaj tiam li/ŝi
+                        &quot;forlasas&quot; vin kaj ekiras al la aventuroj krei infanajn amikecojn, tiam lernejon kiam
+                        la aŭtoritato de la gepatroj estas svingita al la aŭtoritato de la instruisto, tiam la
+                        aŭtoritato de amikoj, socio... kaj malrapide via senhelpa &quot;fasko de ĝojo&quot; fariĝas
+                        plenkreskulo.
                     </p>
-                    <p>I onda, opet, počinje novi teški dio.</p>
+                    <p>Kaj poste denove komenciĝas nova malfacila parto.</p>
                     <p>
-                        Od roditelja djece potrebno je transformirati se u roditelj odrasle osobe. Postaviti nove
-                        granice.
+                        Necesas transformi de la gepatro de infanoj al gepatro de plenkreskulo. Starigu novajn limojn.
                     </p>
-                    <p>Prestati biti roditelj koji brine, postati roditelj koji ima povjerenje.</p>
+                    <p>Ĉesu esti maltrankvila gepatro, fariĝu fidinda gepatro.</p>
                     <p>
-                        Prestati biti roditelj koji daje savjete, postati roditelj koji strpljivo podupire stjecanje
-                        iskustva.
-                    </p>
-                    <p>
-                        Postati roditelj ponosan na način na koji je proslijedio život na najbolji mogući način i koji
-                        je ponosan na rezultat &#8722; ponosan na osobe koje su „bivša“ djeca postala.
+                        Ĉesu esti gepatro, kiu donas konsilojn, fariĝu gepatro, kiu pacience subtenas la akiron de
+                        sperto.
                     </p>
                     <p>
-                        Prestati biti roditelj koji se brine o djeci i pokazati kako odrasla osoba brigom o sebi
-                        pokazuje kako biti odgovorna odrasla osoba.
+                        Fariĝi gepatro, kiu fieras pri la maniero kiel li/ŝi pasigis la vivon en la plej bona maniero
+                        kaj kiu fieras pri la rezulto - fieras pri la homoj, kiuj fariĝis la &quot;eksaj&quot; infanoj.
+                    </p>
+                    <p>Ĉesu esti gepatro, kiu prizorgas infanojn. Montru kiel plenkreskulo prizorgante sin mem.</p>
+                    <p>
+                        Kaj tiam niaj infanoj fariĝas kontentaj ĉar ni estas kontentaj, ili fariĝas liberaj ĉar ni
+                        liberigas ilin.
                     </p>
                     <p>
-                        I onda naša djeca postaju zadovoljna jer smo mi zadovoljni, postaju slobodna jer ih mi
-                        oslobađamo.
+                        La transira periodo de gepatrado de infano ĝis gepatrado de plenkreskulo estas tre postulema kaj
+                        foje konfuza. Ĉar kelkfoje infanoj petas de vi konsilon kaj poste koleriĝas pro la konsilo.
+                        Kelkfoje ili serĉas konsolon, sed sen enmiksiĝo en siaj decidoj. Tiel ni kaj ili trejnas kie
+                        estas niaj novaj tolereblaj limoj. Gepatroj estas konfuzitaj de tiu periodo, kaj ĝi ankaŭ
+                        doloras.
                     </p>
                     <p>
-                        Prijelazni period od roditelja djeteta do roditelja odrasle osobe je jako zahtjevan i ponekad
-                        zbunjujući. Jer ponekad djeca od vas traže savjet i onda se na savjet naljute. Ponekad traže
-                        utjehu ali bez mudrovanja i petljanja u njihove odluke. Tako i mi i oni treniramo gdje su nam
-                        nove podnošljive granice.
+                        Doloras lasi siajn infanojn. Doloras ĉar iliaj instinktoj ankoraŭ ĉagrenas ilin prizorgi la
+                        infanojn.
                     </p>
                     <p>
-                        Roditelje taj period zbunjuje ali i boli. Boli pustiti svoju djecu. Boli jer ih njihovi
-                        instinkti još uvijek gnjave da se o djeci brinu.
+                        Kaj ili estu liberigitaj, por ke ili povu reveni.
+                        <b> Kiel plenkreskuloj, respondecaj homoj. Kaj se ni lasas ilin iri, ili ĉiam revenos.</b>
                     </p>
                     <p>
-                        A treba ih pustiti da bi se mogli vratiti.
-                        <b> Kao odrasli, odgovorni ljudi. A ako smo ih pustili, uvijek se vrate.</b>
-                    </p>
-                    <p>
-                        Zbunjuje i jer, ponekad, to otvara prostor vrijeme i energiju da se vrate svom životu koji je u
-                        međuvremenu promijenjen, a ponekad i opustošen. Da pogledaju u odgođeno, zanemareno, pod tepih
-                        gurnuto… jer važna su bila djeca. A sad djece više nema. Pa se treba suočiti s problemima koji
-                        se sada više ne mogu sakriti, prisjetiti se dana visoke energije, radosti, strasti, hobija…
-                        Ponovo izgraditi svoj život.
+                        Tio estas ankaŭ konfuza ĉar, foje, ĝi malfermas spacon, tempon kaj energion por ke gepatroj
+                        revenu al sia vivo, kiu estis ŝanĝita kaj foje intertempe detruita. Rigardi en sia vio tion, kio
+                        estis prokrastita, neglektita, puŝita sub la tapiŝon... ĉar la infanoj estis gravaj. Kaj nun ne
+                        plu estas infanoj. Do gepatroj devas alfronti la problemojn, kiuj ne plu povas esti kaŝitaj,
+                        memori la tagojn de alta energio, ĝojo, pasio, ŝatokupoj... Rekonstrui sian vivon. Por ke ni
+                        estu fierajr pri si mem, por ke ni sentu memrespekton por ke niaj plenkreskaj infanoj povu
+                        respekti nin.
                     </p>
                 </li>
             </ul>
