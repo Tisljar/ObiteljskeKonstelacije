@@ -2,13 +2,13 @@ const TerminiEs = () => {
     return (
         <>
             <section className="termini">
-                <h2>Raspored radionica i susreta</h2>
-                <p>Radionice održavam jedan do dva puta mjesečno, on-line ili uživo</p>
+                <h2>Horaro de laborrenkontiĝoj kaj renkontiĝoj</h2>
+                <p>Mi okazigas laborrenkontiĝojn unu aŭ dufoje monate, rete aŭ vive</p>
                 <p>
-                    Svaki drugi četvrtak odvijaju se mini-radionice, sa uvodnim predavanjem na konstelacijske teme te
-                    zajedničkim vježbama ili sa osobnim postavama.
+                    Mini-laborrenkontiĝoj okazas ĉiun duan ĵaŭdon, kun enkonduka prelego pri konstelaciaj temoj kaj
+                    komunaj ekzercoj aŭ kun personaj vicigoj.
                 </p>
-                <p>Termini mini radionica:</p>
+                <p>Datoj de la mini-laborrenkontiĝo:</p>
                 <ul>
                     <li>
                         <b>5.10.2023.</b>
@@ -24,11 +24,11 @@ const TerminiEs = () => {
                     </li>
                 </ul>
                 <p>
-                    Prijave za mini radionice na:<b> vgaracic@gmail.com</b>
+                    Aplikoj por mini-laborrenkontiĝoj ĉe:<b> vgaracic@gmail.com</b>
                 </p>
                 <p>
-                    Termini individualnih susreta, uživo ili on-line su po dogovoru.
-                    <br /> Prijave su na mail: <b> ankica.konstelacije@gmail.com </b>
+                    Nomumoj por individuaj renkontiĝoj, vivaj aŭ interrete, estas laŭ rendevuo.
+                    <br /> Aplikoj estas retpoŝte <b> ankica.konstelacije@gmail.com </b>
                 </p>
             </section>
         </>
