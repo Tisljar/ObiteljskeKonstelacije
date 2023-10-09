@@ -1,0 +1,66 @@
+const KakoPostavitiEs = () => {
+    const nacrt = require('../../../assets/img/nacrt.png');
+    return (
+        <>
+            <div className="row">
+                <div className="col-12">
+                    <h2>Kiel preparĝi?</h2>
+                    <p>
+                        Vi povas provi senti, kiun areon de vivo vi plej volas rigardi:
+                        <br />
+                        partnereco, rilato kun infanoj, rilato kun gepatroj, simptomoj kaj/aŭ malsanoj, sentoj de
+                        malkontento en iu parto de vivo aŭ komercaj aferoj. Lasu la specifajn demandojn formiĝi dum la
+                        laborrenkontiĝo.
+                    </p>
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-md-12 col-td-6 col-6">
+                    <p>
+                        Por tiuj, kiuj estas ekstreme persistaj, mi sugestas desegni vian genealogian arbon.Por tiuj,
+                        kiuj estas ekstreme persistaj, mi sugestas desegni vian genealogian arbon: <br />
+                    </p>
+                    <ul>
+                        <li>partneroj kaj infanoj,</li>
+                        <li>gepatroj kaj gefratoj</li>
+                        <li>geavoj</li>
+                        <li>
+                            Infanoj estas desegnitaj en la ordo en kiu ili naskiĝis, la unua maldekstra simbolo estas
+                            por la unuenaskita infano.
+                        </li>
+                        <li>Nenaskitaj infanoj estas tiritaj super la kunliga linio.</li>
+                        <li>Rompita rilato estas grava antaŭa rilato, en kiu ne estis infanoj.</li>
+                        <li>
+                            Ĉiu rilato, en kiu estis infanoj, havas la saman gravecon kaj la saman simbolon, por la
+                            rilato aŭ por la rompo.
+                        </li>
+                        <li>Ekstergeedza rilato estas rilato kiu estas samtempa kun geedziĝo.</li>
+                        <li>
+                            Por la antaŭtempe mortinto, la naskiĝjaro kaj morto kaj la mortokaŭzo estas enmetitaj:
+                            milito, perforta morto, malsano aŭ akcidento.
+                        </li>
+                    </ul>
+                </div>
+                <div className="col-md-12 col-td-1 col-1"></div>
+                <div className="col-md-12 col-td-5 col-5  nacrt-center">
+                    <div>
+                        <img src={nacrt} alt="" className="nacrt" />
+                    </div>
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-12">
+                    <p>
+                        Demandu viajn gepatrojn pri ilia juneco kaj la juneco de iliaj gepatroj, demandu ilin kiam kaj
+                        kiel ili enamiĝis, kio estis la plej bela kaj la plej malfacila afero por ili. Kunhavigu viajn
+                        spertojn kun viaj infanoj. <br />
+                        Ni antaŭĝojas pasigi tempon kune kaj ĝis revido en la laborrenkontiĝo Sendu al mi retpoŝton kun
+                        petskribo aŭ enketo!
+                    </p>
+                </div>
+            </div>
+        </>
+    );
+};
+
+export default KakoPostavitiEs;

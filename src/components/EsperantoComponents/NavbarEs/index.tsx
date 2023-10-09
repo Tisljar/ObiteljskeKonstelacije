@@ -1,12 +1,12 @@
 import './index.css';
 import { Link } from 'react-router-dom';
 
-const Navbar = () => {
-    const logoWhite = require('../../assets/img/Logo-white.png');
-    const esperantoFlag = require('../../assets/img/Esperanto-flago.png');
+const NavbarEs = () => {
+    const logoWhite = require('../../../assets/img/Logo-white.png');
+    const croatianFlag = require('../../../assets/img/Croatian-Flag.png');
     return (
         <section className="top-nav">
-            <Link to={'/'}>
+            <Link to={'/es'}>
                 <div>
                     <img src={logoWhite} alt="" className="logo" />
                 </div>
@@ -17,29 +17,29 @@ const Navbar = () => {
             </label>
             <ul className="menu">
                 <li>
-                    <Link to={'/about'} className="link">
-                        O Meni
+                    <Link to={'/esabout'} className="link">
+                        Pli mi
                     </Link>
                 </li>
 
                 <li>
-                    <Link to={'/konstalacije'} className="link">
-                        Obiteljske konstelacije
+                    <Link to={'/eskonstalacije'} className="link">
+                        Familiaj Konstalacioj
                     </Link>
                 </li>
                 <li>
-                    <Link to={'/radionice'} className="link">
-                        Radionice i susreti
+                    <Link to={'/esradionice'} className="link">
+                        Sesijoj
                     </Link>
                 </li>
                 <li>
-                    <Link to={'/linkovi'} className="link">
-                        Korisni linkovi
+                    <Link to={'/eslinkovi'} className="link">
+                        Video kaj ligiloj
                     </Link>
                 </li>
                 <li>
-                    <Link to={'/es'}>
-                        <img src={esperantoFlag} alt="" className="flag" />
+                    <Link to={'/'}>
+                        <img src={croatianFlag} alt="" className="flag" />
                     </Link>
                 </li>
             </ul>
@@ -47,4 +47,4 @@ const Navbar = () => {
     );
 };
 
-export default Navbar;
+export default NavbarEs;

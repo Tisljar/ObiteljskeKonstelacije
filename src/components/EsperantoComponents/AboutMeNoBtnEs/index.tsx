@@ -1,5 +1,5 @@
-const AboutMeNoBtn = () => {
-    const ankicaJagnjic = require('../../assets/img/ankica-jagnjic.png');
+const AboutMeNoBtnEs = () => {
+    const ankicaJagnjic = require('../../../assets/img/ankica-jagnjic.png');
     return (
         <>
             <div className="row">
@@ -16,11 +16,12 @@ const AboutMeNoBtn = () => {
                     <div className="about-content">
                         <p>
                             Ankica Jagnjić
-                            <br /> S konstelacijama se družim više od 15 godina, u početku za svoj osobni razvoj na
-                            radionicama Michaela Scheffera. <br /> Edukaciju za sistemskog konstelatora pohađala sam i
-                            završila kod Alemke i Maxa Dauskardta, iskusnih voditelja, školovanih u Australiji i
-                            Njemačkoj kod Berta Hellingera i drugih. Dodatno sam se educirala na seminarima svjetski
-                            poznatih konstelatora Stefana Hausnera, Cecilia Fernardez Regoja i Anngwyn St. Just.
+                            <br /> Mi uzas konstelacian manieron dum pli ol 20 jaroj, komence por mia persona evoluo ĉe
+                            la grupa laboro de Michael Scheffer.
+                            <br /> Mi kompletigis la sisteman konstelacian edukadon kun Alemka kaj Max Dauskardt,
+                            spertaj gvidantoj, edukita en Aŭstralio kaj Germanio de Bert Hellinger kaj aliaj. Mi estis
+                            krome edukita ĉe la seminarioj de la mondfamaj konstelantoj Stefan Hausner, Cecilia
+                            Fernardez Regoj kaj Angwyn St. Nur.
                         </p>
                     </div>
                 </div>
@@ -29,4 +30,4 @@ const AboutMeNoBtn = () => {
     );
 };
 
-export default AboutMeNoBtn;
+export default AboutMeNoBtnEs;
