@@ -26,7 +26,7 @@ const AboutMeEs = () => {
                             krome edukita ĉe la seminarioj de la mondfamaj konstelantoj Stefan Hausner, Cecilia
                             Fernardez Regoj kaj Angwyn St. Nur.
                         </p>
-                        <Link to={'/about'}>
+                        <Link to={'/eoabout'}>
                             <button className="btn-default mg-left">Legu miajn artikolojn</button>
                         </Link>
                     </div>

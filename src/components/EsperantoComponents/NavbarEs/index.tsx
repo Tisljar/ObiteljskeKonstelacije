@@ -6,7 +6,7 @@ const NavbarEs = () => {
     const croatianFlag = require('../../../assets/img/Croatian-Flag.png');
     return (
         <section className="top-nav">
-            <Link to={'/es'}>
+            <Link to={'/eo'}>
                 <div>
                     <img src={logoWhite} alt="" className="logo" />
                 </div>
@@ -17,23 +17,23 @@ const NavbarEs = () => {
             </label>
             <ul className="menu">
                 <li>
-                    <Link to={'/esabout'} className="link">
+                    <Link to={'/eoabout'} className="link">
                         Pli mi
                     </Link>
                 </li>
 
                 <li>
-                    <Link to={'/eskonstalacije'} className="link">
+                    <Link to={'/eokonstalacije'} className="link">
                         Familiaj Konstalacioj
                     </Link>
                 </li>
                 <li>
-                    <Link to={'/esradionice'} className="link">
+                    <Link to={'/eoradionice'} className="link">
                         Sesijoj
                     </Link>
                 </li>
                 <li>
-                    <Link to={'/eslinkovi'} className="link">
+                    <Link to={'/eolinkovi'} className="link">
                         Video kaj ligiloj
                     </Link>
                 </li>

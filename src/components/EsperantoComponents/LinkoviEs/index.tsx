@@ -39,7 +39,7 @@ const LinkoviEs = () => {
                 <div className="row">
                     <div className="col-4"></div>
                     <div className="col-4 center mg-top-20">
-                        <Link to={'/eslinkovi'}>
+                        <Link to={'/eolinkovi'}>
                             <button className="btn-default">Regardu plu</button>
                         </Link>
                     </div>

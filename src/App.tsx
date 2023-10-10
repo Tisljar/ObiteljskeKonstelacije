@@ -18,11 +18,11 @@ const App = () => {
             <Route path="/konstalacije" element={<KonstalacijePage />} />
             <Route path="/radionice" element={<RadionicePage />} />
             <Route path="/linkovi" element={<LinkoviPage />} />
-            <Route path="/esabout" element={<AboutPageEs />} />
-            <Route path="/es" element={<HomePageEs />} />
-            <Route path="/eskonstalacije" element={<KonstalacijePageEs />} />
-            <Route path="/esradionice" element={<RadionicePageEs />} />
-            <Route path="/eslinkovi" element={<LinkoviPageEs />} />
+            <Route path="/eoabout" element={<AboutPageEs />} />
+            <Route path="/eo" element={<HomePageEs />} />
+            <Route path="/eokonstalacije" element={<KonstalacijePageEs />} />
+            <Route path="/eoradionice" element={<RadionicePageEs />} />
+            <Route path="/eolinkovi" element={<LinkoviPageEs />} />
         </Routes>
     );
 };

@@ -28,7 +28,7 @@ const RadioniceEs = () => {
                         Do konservu vian malfermitecon al la nova, sufiĉas por komenci. Se vi volas studi plian
                         materialon antaŭ la laborrenkontiĝo, vi povas ekscii pli:
                     </p>
-                    <Link to={'/esradionice'}>
+                    <Link to={'/eoradionice'}>
                         <button className="btn-default">Eksciu pli</button>
                     </Link>
                 </div>

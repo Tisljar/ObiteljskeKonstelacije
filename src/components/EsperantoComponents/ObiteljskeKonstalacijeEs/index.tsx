@@ -24,7 +24,7 @@ const ObiteljskeKonstalacijeEs = () => {
                         forton de la pasinteco por atingi celojn en la estonteco.
                     </p>
                     <p>Ĉi tiu metodo estas plej ofte aplikata en grupa laboro, sed ankaŭ eblas individua laboro.</p>
-                    <Link to={'/eskonstalacije'}>
+                    <Link to={'/eokonstalacije'}>
                         <button className="md-padding-bottom btn-default">Eksciu plu</button>
                     </Link>
                 </div>
