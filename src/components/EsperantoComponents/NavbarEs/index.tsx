@@ -18,7 +18,7 @@ const NavbarEs = () => {
             <ul className="menu">
                 <li>
                     <Link to={'/eoabout'} className="link">
-                        Pli mi
+                        Pri mi
                     </Link>
                 </li>
 
@@ -29,7 +29,7 @@ const NavbarEs = () => {
                 </li>
                 <li>
                     <Link to={'/eoradionice'} className="link">
-                        Sesijoj
+                        Sesioj
                     </Link>
                 </li>
                 <li>

@@ -4,17 +4,45 @@ const Termini = () => {
             <section className="termini">
                 <h2>Raspored radionica i susreta</h2>
                 <p>Radionice održavam jedan do dva puta mjesečno, on-line ili uživo</p>
-                <p>
-                    Svaki drugi četvrtak odvijaju se mini-radionice, sa uvodnim predavanjem na konstelacijske teme te
-                    zajedničkim vježbama ili sa osobnim postavama.
-                </p>
-                <p>Termini mini radionica:</p>
                 <ul>
                     <li>
-                        <b>5.10.2023.</b>
+                        <p>
+                            <b>Grupna online radionica:</b> 21.10.2023. 14:00-19:00
+                        </p>
+                        <p>
+                            Prijave na radionice na:<b> ankica.konstelacije@gmail.com</b>
+                        </p>
                     </li>
                     <li>
-                        <b>19.10.2023.</b>
+                        <p>
+                            <b>Grupna radionica uživo: </b>12.11.2023. 14:00-19:00 na adresi:{' '}
+                            <b>Nemčićeva 2, Zagreb, Apolon </b>
+                        </p>
+                        <p>
+                            Prijave na radionice na:<b> ankica.konstelacije@gmail.com</b>
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <b> Mini radionica:</b> 19.10.2023. 18:00-21:00
+                        </p>
+                        <p>
+                            Tema: <b> Što bi bilo kad bi bilo?</b>
+                        </p>
+
+                        <p>
+                            Prijave na mini radionicu na:<b> vgaracic@gmail.com</b>
+                        </p>
+                    </li>
+                </ul>
+            </section>
+            {/* <p>
+                    Termini individualnih susreta, uživo ili on-line su po dogovoru.
+                    <br /> Prijave su na mail: <b> ankica.konstelacije@gmail.com </b>
+                </p> */}
+            {/* <ul>
+                    <li>
+                         - 
                     </li>
                     <li>
                         <b>2.11.2023.</b>
@@ -22,15 +50,7 @@ const Termini = () => {
                     <li>
                         <b>16.11.2033</b>
                     </li>
-                </ul>
-                <p>
-                    Prijave za mini radionice na:<b> vgaracic@gmail.com</b>
-                </p>
-                <p>
-                    Termini individualnih susreta, uživo ili on-line su po dogovoru.
-                    <br /> Prijave su na mail: <b> ankica.konstelacije@gmail.com </b>
-                </p>
-            </section>
+                </ul> */}
         </>
     );
 };
