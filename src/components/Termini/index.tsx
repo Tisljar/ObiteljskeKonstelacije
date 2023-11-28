@@ -7,7 +7,7 @@ const Termini = () => {
                 <ul>
                     <li>
                         <p>
-                            <b>Grupna online radionica:</b> 21.10.2023. 14:00-19:00
+                            <b>Grupna online radionica:</b> 16.12.2023. 14:00-19:00
                         </p>
                         <p>
                             Prijave na radionice na:<b> ankica.konstelacije@gmail.com</b>
@@ -15,7 +15,7 @@ const Termini = () => {
                     </li>
                     <li>
                         <p>
-                            <b>Grupna radionica uživo: </b>12.11.2023. 14:00-19:00 na adresi:{' '}
+                            <b>Grupna radionica uživo: </b>17.12.2023. 14:00-19:00 na adresi:{' '}
                             <b>Nemčićeva 2, Zagreb, Apolon </b>
                         </p>
                         <p>
@@ -24,10 +24,10 @@ const Termini = () => {
                     </li>
                     <li>
                         <p>
-                            <b> Mini radionica:</b> 19.10.2023. 18:00-21:00
+                            <b> Mini radionica:</b> 21.12.2023. 18:00-21:00
                         </p>
                         <p>
-                            Tema: <b> Što bi bilo kad bi bilo?</b>
+                            Tema: <b> Novi početci?</b>
                         </p>
 
                         <p>
