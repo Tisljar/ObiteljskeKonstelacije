@@ -6,41 +6,51 @@ const AboutArticlesEs = () => {
                 <li className="accordion-li">
                     <input type="checkbox" defaultChecked={true} />
                     <i className="mg-top-arrow"></i>
-                    <h2 className="accordion-title">Akceptu la vivon</h2>
+                    <h2 className="accordion-title">Akcept la vivon - Akcepti kio estas</h2>
                     <p>
-                        Ofte okazas ke membroj de familioj, precipe la patrino kaj patro, estis energie rompitaj, ilia
-                        sorto estis tiel malfacila, ke ili apenaŭ havis la forton por transdoni la vivon.
+                        Ofte okazas ke membroj de familioj, precipe gepatroj aŭ geavoj, estis energie rompitaj, ilia
+                        sorto estis tiel malfacila, ke ili apenaŭ travivante tamen havis la forton por transdoni la
+                        vivon.
                     </p>
                     <p>
-                        La infanoj reagas en du malsamaj manieroj: aŭ ili foriris de familio, forkuris, fermis sin
-                        emocie ĉar ĝi estis tro timiga por ili, aŭ ili kunfandiĝis tro forte kaj provante helpi preskaŭ
-                        dronis en la ŝarĝoj.
+                        La infanoj en tiaj kazoj reagas en du malsamaj manieroj: aŭ ili foriras de familio, forkuras,
+                        fermas sin emocie ĉar ĉio estis tro timiga kaj peza por ili, aŭ ili interplektiĝis en la rilatoj
+                        kaj provante helpi preskaŭ energidronas de la familiaj ŝarĝoj.
                     </p>
-                    <p>Ambaŭ elektoj post iom da tempo devus fari la samon: akcepti sian vivon tia, kia ĝi estas.</p>
+                    <p>
+                        Ambaŭ elektoj post iom da tempo devus fari la samon:{' '}
+                        <b> akcepti sian vivon tia, kia ĝi estas.</b>
+                    </p>
                     <p>
                         Tiuj, kiuj forkuris kaj rifuzis partopreni, devas reveni, rigardi, senti la ŝarĝon, vidi la
-                        malfacilan sorton sed ankaŭ senti la forton en la rompitaj animoj. Kun profunda respekto. En
-                        ĉiuj tiuj, kiuj travivis, por ke iliaj posteuloj vivu.
+                        malfacilan sorton sed ankaŭ senti la forton en la rompitaj animoj de paruloj. Kun profunda
+                        respekto. En ĉiuj tiuj, kiuj travivis, por ke iliaj posteuloj vivu.
                     </p>
                     <p>
                         Tiuj, kiuj provis helpi, devus retiriĝi, lasi la ŝarĝon al tiuj, al kiuj ĝi apartenas, ĉesu per
-                        sia infana amo fliki en la vivon de aliaj homoj. Ĉar ili malrapide malŝaltas la energion por
-                        vivi sian vivon. Rigardi malfacilan sorton kaj senti la forton en rompitaj animoj. Kun profunda
-                        respekto. En ĉiuj kiuj travivis por ke iliaj posteuloj vivu.
+                        sia infana amo enplektiĝi en la vivon de aliaj. Rigardi malfacilan sorton kaj senti la forton en
+                        rompitaj animoj. Kun profunda respekto. En ĉiuj kiuj travivis por ke iliaj posteuloj vivu.
                     </p>
                     <p>Kaj en ambaŭ kazoj, senti forton, kiu estis transdonita al ili de iliaj prapatroj.</p>
                     <p>
                         La liberiga frazo sonas enigme:{' '}
-                        <b>mi akceptas mian vivon, mi havis sufiĉe, mi mem prizorgos la ceterajn.</b>
+                        <b>
+                            Mi akceptas mian vivon tia kia ĝi estas.
+                            <br />
+                            Mi ricevis sufiĉe, mi mem prizorgos la ceterajn.
+                        </b>
                     </p>
-                    <p>Ĉi tie kutime okazas rezisto - sufiĉe!! Mi devus kaj meritis pli!!</p>
-                    <p>Vi meritas, sed vi ricevis tion, kio eblis.</p>
                     <p>
-                        Kaj sufiĉis ĉar vi venis en la mondon kaj vi vivas! Antaŭ ĉio. Kaj ni mem respondecas prizorgi
-                        pri la resto. Kun nia decido vivi, nia malfermo al la mondo kaj homoj, nia volemo rimarki kaj
-                        altiri la helpon de la universo/dio/pli alta potenco.
+                        Ĉi tie kutime okazas rezisto - mi ricevis sufiĉe!! Mi devus kaj meritis pli!! Mi rajtas plendi,
+                        kulpigi, kritiki!!!
                     </p>
-                    <p> Kaj ni ĉiam ricevas helpon.</p>
+                    <p>Jes, Vi meritas pli, sed de tiu fonto vi ricevis tion, kio necesis kaj eblis.</p>
+                    <p>
+                        Kaj sufiĉis ĉar vi venis al la mondo kaj vi vivas! Kaj ni vi respondecas prizorgi la resto. Kun
+                        nia decido akcepti la vivon tia kia ĝi estasi venas nia kapablo ricevi, nia malfermo al la mondo
+                        kaj al homoj, nia volemo rimarki kaj eltiri la helpon de la universo/dio/pli alta potenco
+                    </p>
+                    <p> Kaj tiam ni ricevas helpon abunde kaj diversmaniere.</p>
                     <p>
                         De la flegistino, kiu malsekigas nian buŝon antaŭ operacio, de la onklino, kiu kisas la vundon
                         sur nia kruro, de la instruisto, kiu enŝovas en ni pasion por libroj, de la najbaro, kiu bakas
@@ -48,10 +58,9 @@ const AboutArticlesEs = () => {
                         kiu rimarkas, ke vi estas deprimita...
                     </p>
                     <p>
-                        Kaj tiel ĉiutage, la tutan vivon. Se ni rimarkas tion. Kaj ni ofte malsukcesas rimarki kaj
-                        aprezi. Ofte ni preferas plendi. Kaj tie estas nia respondeco. Por vidi, ke VIVO estas kun ni,
-                        estas nia respondeco esti rimarkinta al ĉi tiuj malgrandaj/grandaj donacoj, rimarki ilin kaj
-                        esti dankema.
+                        Kaj tiel ĉiutage, dum la tuta vivo.Ofte ni preferas plendi. Kaj tie estas nia respondeco vidi,
+                        ke VIVO estas kun ni, por rimarki ĉiujn malgrandaj/grandaj donacoj de nia vivo. Kaj esti
+                        dankema.
                     </p>
                 </li>
                 <li className="accordion-li">

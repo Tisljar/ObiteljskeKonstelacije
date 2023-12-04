@@ -27,7 +27,7 @@ const Termini = () => {
                             <b> Mini radionica:</b> 21.12.2023. 18:00-21:00
                         </p>
                         <p>
-                            Tema: <b> Novi početci?</b>
+                            Tema: <b> Novi početci</b>
                         </p>
 
                         <p>

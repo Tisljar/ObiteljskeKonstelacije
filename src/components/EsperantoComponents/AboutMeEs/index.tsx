@@ -19,12 +19,12 @@ const AboutMeEs = () => {
                     <div className="about-content">
                         <p>
                             Ankica Jagnjić
-                            <br /> Mi uzas konstelacian manieron dum pli ol 20 jaroj, komence por mia persona evoluo ĉe
-                            la grupa laboro de Michael Scheffer.
-                            <br /> Mi kompletigis la sisteman konstelacian edukadon kun Alemka kaj Max Dauskardt,
-                            spertaj gvidantoj, edukita en Aŭstralio kaj Germanio de Bert Hellinger kaj aliaj. Mi estis
-                            krome edukita ĉe la seminarioj de la mondfamaj konstelantoj Stefan Hausner, Cecilia
-                            Fernardez Regoj kaj Angwyn St. Nur.
+                            <br /> Mi ĝuas konstelacian manieron dum pli ol 20 jaroj, komence por mia persona evoluo ĉe
+                            la grupa laboro de Michael Scheffer kaj dum lastaj 7 jarojn mem gvidante poziciigadon laŭ
+                            tiu metodo.
+                            <br /> Mi kompletigis la edukadon kun Alemka kaj Max Dauskardt, spertaj gvidantoj, edukita
+                            de Bert Hellinger. Mi estis krome edukita ĉe la kurso Cecilia Fernardez Regoj kaj la
+                            seminarioj de Stefan Hausner.
                         </p>
                         <Link to={'/eoabout'}>
                             <button className="btn-default mg-left">Legu miajn artikolojn</button>
