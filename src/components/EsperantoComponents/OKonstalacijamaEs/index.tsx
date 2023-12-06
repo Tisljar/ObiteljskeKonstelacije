@@ -10,16 +10,22 @@ const OKonstalacijamaEs = () => {
             <div className="row">
                 <div className="col-md-12 col-td-6 col-7">
                     <p>
-                        La fondinto de la metodo de familiaj aŭ sistemaj konstelacioj, Bert Hellinger sukcese aplikis la
-                        principojn de psikologio, spiriteco kaj tradicioj de afrika ŝamanismo en tiu metodo kaj
-                        disponigis pli profundan komprenon pri la kompleksaj sistemoj de interhomaj rilatoj.
+                        Bert Hellinger, la fondinto de la metodo de familiaj aŭ sistemaj konstelacioj, sukcese aplikis
+                        kaj kombinis la principojn de psikologio kaj spiriteco kaj disponigis pli profundan komprenon
+                        pri la kompleksaj sistemoj de interhomaj rilatoj.
                     </p>
                     <p>
-                        La baza premiso de ĉi tiu metodo estas, ke en la familio, kiel en ĉiuj aliaj sistemoj al kiuj ni
-                        apartenas, ekzistas ordo de amo, kiu ebligas la fluon de amo kaj vivenergio al ĉiuj membroj de
-                        la sistemo. Kiam ĉiuj membroj havas senton de aparteno kaj kiam ĉiuj membroj respektas ordon, la
-                        vivo disvolviĝas al sia plena potencialo.
+                        La baza premiso de ĉi tiu metodo estas, ke en la familio ekzistas reguloj de amo, kaj kiam ili
+                        estas respektataj la fluon de amo kaj vivenergio atingas kaj fortigas ĉiujn membrojn de la
+                        familio. Same validas en ĉiuj aliaj sistemoj/grupoj al kiuj ni apartenas. Kiam ĉiuj membroj
+                        havas senton de aparteno kaj kiam ĉiuj membroj respektas ordon de la sistemo, la vivo
+                        disvolviĝas al sia plena potenco.
                     </p>
+                    <p>
+                        Farante familian poziciigadon, vi ekkomprenos kial io okazis ĝis nun kaj kiel preni saĝon kaj
+                        forton de la pasinteco por atingi siajn celojn en la estonteco.
+                    </p>
+                    <p>Ĉi tiu metodo estas plej ofte aplikata en grupa laboro, sed ankaŭ eblas individua laboro.</p>
                     <p>
                         Tamen, iuj eventoj povas provizore interrompi la ordon de amo. Resaniĝo kaj resaniĝo de la
                         traŭmato de la sistemo kaj la familio okazas tra la emociaj procezoj de la membroj, foje tra
@@ -43,16 +49,18 @@ const OKonstalacijamaEs = () => {
             <div className="row">
                 <div className="col-12">
                     <p>
-                        Tial ni foje havas la senton, ke la vivo ne iras kiel ni volas, ke sukceso eskapas nin malgraŭ
-                        niaj klopodoj. Malgraŭ la tuta persistemo, matureco kaj sindediĉo labori pri ni mem, ni ne
-                        sukcesas liberigi nin de certaj ŝablonoj de konduto kaj reagoj de la medio. Ni estas malkontenta
-                        pri familiaj rilatoj, ni ne sukcesas atingi signifajn kaj produktivajn rilatojn kun aliaj homoj,
-                        ni ne povas forigi antaŭjuĝojn, juĝojn, la bezonon regi, sentojn de kulpo, kiuj ŝajnas veni de
-                        nenie, diversaj simptomoj kaj malsanoj malhelpas nian. vivoj.
+                        Tial ni foje havas la senton, ke la vivo ne iras kiel ni volas malgraŭ niaj klopodoj ŝanĝi aŭ
+                        ŝanĝiĝi, ke sukceso eskapas nin. Malgraŭ la perzisto, matureco kaj sindediĉo, ni ne sukcesas
+                        liberigi nin de la ripetado de samaj kondutoj kaj reagoj. Ni estas malkontentaj pri familiaj
+                        rilatoj, pri niaj partneraj kaj rilatoj kun infanoj, ni ne sukcesas atingi signifajn kaj
+                        produktivajn rilatojn kun aliaj homoj, de nia konduto ni ne sukcesas forigi antaŭjuĝojn kaj
+                        prijuĝojn, la bezonon regi/kontroli, sentojn de kulpo kiuj ŝajnas veni de nenie, diversaj
+                        simptomoj kaj malsanoj malhelpas niajn vivojn.
                     </p>
                     <p>
-                        Kaj la fonto kaj solvo de niaj problemoj kutime estas ne nur nia kaj de ni, sed ankaŭ en la
-                        pasinteco de la familio al kiu ni apartenas.
+                        Kaj la fonto kaj solvo de niaj problemoj ofte venas de la pasinteco de la familio aŭ sistemo al
+                        kiu ni apartenas. Dum ni restas kaptitaj en kaŝitaj lojalecoj al la ŝarĝoj kaj doloroj de
+                        antaŭuloj, ni estas destinitaj ripeti hereditajn traŭmatojn
                     </p>
                     <p>
                         Se ni restas kaptitaj en kaŝitaj lojalecoj, ni estas destinitaj ripeti hereditajn traŭmatojn, ni

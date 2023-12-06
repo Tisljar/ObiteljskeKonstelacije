@@ -9,19 +9,20 @@ const ObiteljskeKonstalacijeEs = () => {
                 <div className="col-md-12 col-td-6 col-7">
                     <h2>Kio estas familiaj konstelacioj?</h2>
                     <p>
-                        La fondinto de la metodo de familiaj aŭ sistemaj konstelacioj, Bert Hellinger sukcese aplikis la
-                        principojn de psikologio kaj spiriteco en ĉi tiu metodo kaj disponigis pli profundan komprenon
+                        Bert Hellinger, la fondinto de la metodo de familiaj aŭ sistemaj konstelacioj, sukcese aplikis
+                        kaj kombinis la principojn de psikologio kaj spiriteco kaj disponigis pli profundan komprenon
                         pri la kompleksaj sistemoj de interhomaj rilatoj.
                     </p>
                     <p>
-                        La baza premiso de ĉi tiu metodo estas, ke en la familio, kiel en ĉiuj aliaj sistemoj, al kiuj
-                        ni apartenas, ekzistas ordo de amo, kiu ebligas la translokigon de amo kaj vivenergio al ĉiuj
-                        membroj de la sistemo. Kiam ĉiuj membroj havas senton de aparteno kaj kiam ĉiuj membroj
-                        respektas ordon, la vivo disvolviĝas al sia plena potencialo.
+                        La baza premiso de ĉi tiu metodo estas, ke en la familio ekzistas reguloj de amo, kaj kiam ili
+                        estas respektataj la fluon de amo kaj vivenergio atingas kaj fortigas ĉiujn membrojn de la
+                        familio. Same validas en ĉiuj aliaj sistemoj/grupoj al kiuj ni apartenas. Kiam ĉiuj membroj
+                        havas senton de aparteno kaj kiam ĉiuj membroj respektas ordon de la sistemo, la vivo
+                        disvolviĝas al sia plena potenco.
                     </p>
                     <p>
-                        Farante familian konstelacion, vi ekkomprenos kial io okazis ĝis nun kaj kiel preni saĝon kaj
-                        forton de la pasinteco por atingi celojn en la estonteco.
+                        Farante familian poziciigadon, vi ekkomprenos kial io okazis ĝis nun kaj kiel preni saĝon kaj
+                        forton de la pasinteco por atingi siajn celojn en la estonteco.
                     </p>
                     <p>Ĉi tiu metodo estas plej ofte aplikata en grupa laboro, sed ankaŭ eblas individua laboro.</p>
                     <Link to={'/eokonstalacije'}>

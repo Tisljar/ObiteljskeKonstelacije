@@ -69,36 +69,37 @@ const AboutArticlesEs = () => {
                     <h2 className="accordion-title">Esti gepatro de plenkreskulo</h2>
                     <p>
                         Foje, mia filino demandis min, kio por mi estas la plej komplika afero estante patrino.La
-                        respondo eble surprizis ŝin - la plej malfacilaj estis la konstantaj ŝanĝoj de miaj infanoj, por
-                        kiuj mi ankaŭ devis konstante ŝanĝi mian rolon kiel patrino kaj la manieron kiel mi komunikis
-                        kun ili, la manieron kiel mi estis parto de iliaj vivoj kaj ili. mia.
+                        respondo eble surprizis ŝin - la plej malfacilaj estis la konstantaj ŝanĝoj de infanoj, pro kio
+                        mi ankaŭ devis konstante ŝanĝi mian rolon kiel patrino kaj la manieron kiel mi komunikis kun
+                        ili. La manieron kiel mi estis parto de iliaj vivoj kaj ili de mia.
                     </p>
                     <p>
-                        Esti patrino fariĝas jam en via familio, akceptante viajn gepatrojn, onklinojn, avinojn, ĉiujn
-                        virinojn en via kulturo kaj klimato. Akceptante la rolon de virino kaj la rolon de patrineco.
-                        Estas malklara sento: &quot;iun tagon mi estos patrino&quot;.
+                        Animo de patrino kreiĝas jam en infaneco ricevante prizorgon kaj atenton de gepatrojn,
+                        onklinojn, avinojn, ĉiujn virinojn en via kulturo kaj klimato. Akceptante la rolon de virino kaj
+                        la rolon de patrineco. Tiu animo komence montriĝas tra malklara sento: &quot;iun tagon mi estos
+                        patrino&quot;.
                     </p>
                     <p>
-                        La sekva paŝo estas en partnereco, elekti la patron de viaj infanoj, senti vin sekura ke ni
-                        komencus fari neston.
+                        La sekva paŝo estas en partnereco, elekti la patron al viaj infanoj, senti vin sekura por
+                        komenci krei neston.
                     </p>
                     <p>
-                        Vera preteco estas provita de gravedeco kaj naskiĝo kaj la tuta ŝtormo de emocioj, hormonoj,
-                        ŝanĝoj en vivkondiĉoj, novaj eblecoj kaj novaj limigoj. Liberigi parton de viaj kapabloj kaj
-                        konscie doni ilin al tiu parto de vi, kiu elektas esti patrino. Aranĝu prioritatojn. Kaj kiel
-                        ajn konfuza estas tio, ĝi estas nur la komenco...
+                        Vera preteco estas testita dum gravideco kaj naskiĝo kun la tuta ŝtormo de emocioj, hormonoj,
+                        ŝanĝoj de vivkondiĉoj, novaj eblecoj kaj novaj limigoj.Ne estas simple liberigi parton de viaj
+                        kapabloj kaj konscie doni ilin al tiu parto de vi, kiu elektas esti patrino. Rearanĝi
+                        prioritatojn. Kaj kiel ajn konfuziga tio, estas nur la komenco...
                     </p>
                     <p>
                         Mi rapide trairos la interesan parton de konstantaj ŝanĝoj: okupado de spaco de rampado,
                         promenado, kurado, grimpado. Kiam vi alkutimiĝas al la rigardo de senkondiĉa amo, kaj tiam li/ŝi
-                        &quot;forlasas&quot; vin kaj ekiras al la aventuroj krei infanajn amikecojn, tiam lernejon kiam
-                        la aŭtoritato de la gepatroj estas svingita al la aŭtoritato de la instruisto, tiam la
+                        &quot;forlasas&quot; vin kaj ekiras al la aventuroj krei infanajn amikecojn, tiam lernejo kiam
+                        la aŭtoritato de la gepatroj estas nuligita favore al la aŭtoritato de la instruisto, tiam la
                         aŭtoritato de amikoj, socio... kaj malrapide via senhelpa &quot;fasko de ĝojo&quot; fariĝas
                         plenkreskulo.
                     </p>
-                    <p>Kaj poste denove komenciĝas nova malfacila parto.</p>
+                    <p>Kaj denove komenciĝas nova malfacila parto.</p>
                     <p>
-                        Necesas transformi de la gepatro de infanoj al gepatro de plenkreskulo. Starigu novajn limojn.
+                        Necesas transformiĝi de la gepatro de infanoj al gepatro de plenkreskulo. Starigi novajn limojn.
                     </p>
                     <p>Ĉesu esti maltrankvila gepatro, fariĝu fidinda gepatro.</p>
                     <p>
@@ -106,37 +107,34 @@ const AboutArticlesEs = () => {
                         sperto.
                     </p>
                     <p>
-                        Fariĝi gepatro, kiu fieras pri la maniero kiel li/ŝi pasigis la vivon en la plej bona maniero
-                        kaj kiu fieras pri la rezulto - fieras pri la homoj, kiuj fariĝis la &quot;eksaj&quot; infanoj.
+                        Fariĝi gepatro, kiu fieras pri propra vivo kaj kiu fieras pri la personoj, kiuj kreiĝis de la
+                        iliaj &quot;eksaj&quot; infanoj.
                     </p>
-                    <p>Ĉesu esti gepatro, kiu prizorgas infanojn. Montru kiel plenkreskulo prizorgante sin mem.</p>
+                    <p>Ĉesi esti gepatro, kiu prizorgas infanojn. Rekomencu zorgi pri si mem. </p>
                     <p>
-                        Kaj tiam niaj infanoj fariĝas kontentaj ĉar ni estas kontentaj, ili fariĝas liberaj ĉar ni
-                        liberigas ilin.
+                        Kaj tiam niaj infanoj fariĝas kontentaj ĉar ni estas kontentaj. Gepatroj fidu al gefiloj.
+                        Gefiloj respektu gepatrojn. Gefiloj fariĝas liberaj ĉar ni liberigas ilin, tuj kiam ili montras
+                        deziron preni respondecon pri si mem.
                     </p>
                     <p>
                         La transira periodo de gepatrado de infano ĝis gepatrado de plenkreskulo estas tre postulema kaj
-                        foje konfuza. Ĉar kelkfoje infanoj petas de vi konsilon kaj poste koleriĝas pro la konsilo.
-                        Kelkfoje ili serĉas konsolon, sed sen enmiksiĝo en siaj decidoj. Tiel ni kaj ili trejnas kie
-                        estas niaj novaj tolereblaj limoj. Gepatroj estas konfuzitaj de tiu periodo, kaj ĝi ankaŭ
-                        doloras.
+                        foje konfuza. Ĉarfoje infanoj petas de vi konsilon kaj poste koleriĝas pro la manko de fido.
+                        Foje ili serĉas konsolon, sed sen enmiksiĝo en ilia decidoj. Ni trejnas kie estas niaj novaj
+                        limoj. Ĉiuj estas konfuzitaj en tiu periodo.
                     </p>
                     <p>
-                        Doloras lasi siajn infanojn. Doloras ĉar iliaj instinktoj ankoraŭ ĉagrenas ilin prizorgi la
-                        infanojn.
+                        Tio estas ankaŭ komplika ĉar, foje, al gepatroj remalfermiĝas la spaco, tempo kaj energio por ke
+                        gepatroj revenu al sia propra, preskaŭ forgesita kaj foje forlasita vivo.
                     </p>
                     <p>
-                        Kaj ili estu liberigitaj, por ke ili povu reveni.
-                        <b> Kiel plenkreskuloj, respondecaj homoj. Kaj se ni lasas ilin iri, ili ĉiam revenos.</b>
+                        Rigardi al sia vivo, rimarki kio estis prokrastita, neglektita, puŝita sub la tapiŝon... ĉar la
+                        infanoj havis prioritaton.
                     </p>
                     <p>
-                        Tio estas ankaŭ konfuza ĉar, foje, ĝi malfermas spacon, tempon kaj energion por ke gepatroj
-                        revenu al sia vivo, kiu estis ŝanĝita kaj foje intertempe detruita. Rigardi en sia vio tion, kio
-                        estis prokrastita, neglektita, puŝita sub la tapiŝon... ĉar la infanoj estis gravaj. Kaj nun ne
-                        plu estas infanoj. Do gepatroj devas alfronti la problemojn, kiuj ne plu povas esti kaŝitaj,
-                        memori la tagojn de alta energio, ĝojo, pasio, ŝatokupoj... Rekonstrui sian vivon. Por ke ni
-                        estu fierajr pri si mem, por ke ni sentu memrespekton por ke niaj plenkreskaj infanoj povu
-                        respekti nin.
+                        Kaj nun ne plu ĉeestas infanoj. Geedzoj estas solaj. Patrino sola. Patro sola. Do, gepatroj
+                        devas alfronti la problemojn, kiuj ne plu povas esti kaŝitaj, revoki la energion, ĝojon, pasion,
+                        ŝatokupojn... Rekonstrui sian novan vivon. Por ke ni plu estu fieraj pri si mem, por ke ni sentu
+                        memrespekton por ke niaj plenkreskaj infanoj povu respekti nin.
                     </p>
                 </li>
             </ul>

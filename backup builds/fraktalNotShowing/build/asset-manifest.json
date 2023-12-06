@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7c0bee8.css",
+    "main.js": "/static/js/main.d8ffa5a9.js",
+    "static/media/ObiteljskeKonstalacijeFraktal.png": "/static/media/ObiteljskeKonstalacijeFraktal.fa97c6ba1dee00afa287.png",
+    "static/media/ankica-jagnjic.png": "/static/media/ankica-jagnjic.3c457777b935b6c1e0ab.png",
+    "static/media/nacrt.png": "/static/media/nacrt.97dd0ae6d2f51b8fe071.png",
+    "static/media/Logo-white.png": "/static/media/Logo-white.46e9ac7e0921c97bc386.png",
+    "static/media/Croatian-Flag.png": "/static/media/Croatian-Flag.14d98285a363e342a32f.png",
+    "index.html": "/index.html",
+    "main.a7c0bee8.css.map": "/static/css/main.a7c0bee8.css.map",
+    "main.d8ffa5a9.js.map": "/static/js/main.d8ffa5a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c0bee8.css",
+    "static/js/main.d8ffa5a9.js"
+  ]
+}
