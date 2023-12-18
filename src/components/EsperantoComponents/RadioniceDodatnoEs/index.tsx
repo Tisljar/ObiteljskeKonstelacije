@@ -20,7 +20,7 @@ const RadioniceDodatnoEs = () => {
                         estas KLARA INTERNA INTENCO kaj la volo akcepti ŝanĝon.
                     </p>
                     <p>
-                        Kiel ajn la intenco formiĝis, malstreĉu vian menson, malfermu vian koron, malfermu vin al tio,
+                        Kiel ajn la intenco formiĝis, malstreĉigu vian menson, malfermu vian koron, malfermu vin al tio,
                         kio povas veni. Nek tro, nek maltro venos - venos tio, kion vi bezonas, kiom vi bezonas kaj en
                         la formo en kiu vi bezonas.
                     </p>

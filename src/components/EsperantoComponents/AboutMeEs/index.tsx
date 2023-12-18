@@ -23,7 +23,7 @@ const AboutMeEs = () => {
                             la grupa laboro de Michael Scheffer kaj dum lastaj 7 jarojn mem gvidante poziciigadon laŭ
                             tiu metodo.
                             <br /> Mi kompletigis la edukadon kun Alemka kaj Max Dauskardt, spertaj gvidantoj, edukita
-                            de Bert Hellinger. Mi estis krome edukita ĉe la kurso Cecilia Fernardez Regoj kaj la
+                            de Bert Hellinger. Krome mi estas edukita ĉe la kurso Cecilia Fernardez Regoj kaj la
                             seminarioj de Stefan Hausner.
                         </p>
                         <Link to={'/eoabout'}>

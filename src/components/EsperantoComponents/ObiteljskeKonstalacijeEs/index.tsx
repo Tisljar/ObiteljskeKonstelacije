@@ -15,7 +15,7 @@ const ObiteljskeKonstalacijeEs = () => {
                     </p>
                     <p>
                         La baza premiso de ĉi tiu metodo estas, ke en la familio ekzistas reguloj de amo, kaj kiam ili
-                        estas respektataj la fluon de amo kaj vivenergio atingas kaj fortigas ĉiujn membrojn de la
+                        estas respektataj, la fluo de amo kaj vivenergio atingas kaj fortigas ĉiujn membrojn de la
                         familio. Same validas en ĉiuj aliaj sistemoj/grupoj al kiuj ni apartenas. Kiam ĉiuj membroj
                         havas senton de aparteno kaj kiam ĉiuj membroj respektas ordon de la sistemo, la vivo
                         disvolviĝas al sia plena potenco.

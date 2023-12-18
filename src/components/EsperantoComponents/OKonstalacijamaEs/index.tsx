@@ -16,24 +16,19 @@ const OKonstalacijamaEs = () => {
                     </p>
                     <p>
                         La baza premiso de ĉi tiu metodo estas, ke en la familio ekzistas reguloj de amo, kaj kiam ili
-                        estas respektataj la fluon de amo kaj vivenergio atingas kaj fortigas ĉiujn membrojn de la
+                        estas respektataj, la fluo de amo kaj vivenergio atingas kaj fortigas ĉiujn membrojn de la
                         familio. Same validas en ĉiuj aliaj sistemoj/grupoj al kiuj ni apartenas. Kiam ĉiuj membroj
                         havas senton de aparteno kaj kiam ĉiuj membroj respektas ordon de la sistemo, la vivo
                         disvolviĝas al sia plena potenco.
                     </p>
                     <p>
-                        Farante familian poziciigadon, vi ekkomprenos kial io okazis ĝis nun kaj kiel preni saĝon kaj
-                        forton de la pasinteco por atingi siajn celojn en la estonteco.
-                    </p>
-                    <p>Ĉi tiu metodo estas plej ofte aplikata en grupa laboro, sed ankaŭ eblas individua laboro.</p>
-                    <p>
-                        Tamen, iuj eventoj povas provizore interrompi la ordon de amo. Resaniĝo kaj resaniĝo de la
-                        traŭmato de la sistemo kaj la familio okazas tra la emociaj procezoj de la membroj, foje tra
-                        pluraj generacioj.
+                        Tamen, iuj eventoj povas provizore interrompi la ordon de amo. Resaniĝo de la traŭmato de la
+                        sistemo kaj traŭmoj de la familio okazas tra emociaj procezoj de la membroj, foje tra pluraj
+                        generacioj.
                     </p>
                     <p>
-                        Kvankam ni ne ĉiam konscias pri tio, niaj prapatroj vivas en ni kaj tra ni: iliaj saĝeco,
-                        spertoj kaj sufero. Dum niaj prapatroj suferas en ni, ni ne povas esti vere feliĉaj.
+                        Kvankam ni ne ĉiam konscias pri tio, niaj pragepatroj vivas en ni kaj tra ni: iliaj saĝeco,
+                        sperto kaj sufero. Dum niaj pragepatroj suferas en ni, ni ne povas esti vere feliĉaj.
                     </p>
                 </div>
                 <div className="col-md-12 col-td-1 col-1"></div>
@@ -50,7 +45,7 @@ const OKonstalacijamaEs = () => {
                 <div className="col-12">
                     <p>
                         Tial ni foje havas la senton, ke la vivo ne iras kiel ni volas malgraŭ niaj klopodoj ŝanĝi aŭ
-                        ŝanĝiĝi, ke sukceso eskapas nin. Malgraŭ la perzisto, matureco kaj sindediĉo, ni ne sukcesas
+                        ŝanĝiĝi, ke la sukceso eskapas nin. Malgraŭ la perzisto, matureco kaj sindediĉo, ni ne sukcesas
                         liberigi nin de la ripetado de samaj kondutoj kaj reagoj. Ni estas malkontentaj pri familiaj
                         rilatoj, pri niaj partneraj kaj rilatoj kun infanoj, ni ne sukcesas atingi signifajn kaj
                         produktivajn rilatojn kun aliaj homoj, de nia konduto ni ne sukcesas forigi antaŭjuĝojn kaj
@@ -59,17 +54,10 @@ const OKonstalacijamaEs = () => {
                     </p>
                     <p>
                         Kaj la fonto kaj solvo de niaj problemoj ofte venas de la pasinteco de la familio aŭ sistemo al
-                        kiu ni apartenas. Dum ni restas kaptitaj en kaŝitaj lojalecoj al la ŝarĝoj kaj doloroj de
-                        antaŭuloj, ni estas destinitaj ripeti hereditajn traŭmatojn
+                        kiu ni apartenas. Dum ni restas kaptitaj en la ŝarĝoj kaj doloroj de antaŭuloj, ni estas
+                        destinitaj ripeti hereditajn traŭmatojn.
                     </p>
-                    <p>
-                        Se ni restas kaptitaj en kaŝitaj lojalecoj, ni estas destinitaj ripeti hereditajn traŭmatojn, ni
-                        restas implikitaj en konfirmado de la traŭmato de unu el niaj prauloj.
-                    </p>
-                    <p>
-                        Kaj ĉiu tia implikiĝo baras la fluon de vivenergio, tenas nin en eterna ripetado, senmove kaj
-                        malhelpas progreson kaj liberecon.
-                    </p>
+                    <p>Kaj ĉiu tia implikiĝo baras la fluo de vivenergio, tenas nin en eterna ripetado.</p>
                 </div>
             </div>
         </>

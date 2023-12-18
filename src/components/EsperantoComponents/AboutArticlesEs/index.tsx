@@ -9,7 +9,7 @@ const AboutArticlesEs = () => {
                     <h2 className="accordion-title">Akcept la vivon - Akcepti kio estas</h2>
                     <p>
                         Ofte okazas ke membroj de familioj, precipe gepatroj aŭ geavoj, estis energie rompitaj, ilia
-                        sorto estis tiel malfacila, ke ili apenaŭ travivante tamen havis la forton por transdoni la
+                        sorto estis tiel malfacila, ke ili apenaŭ travivis. Tamen havis la forton por transdoni la
                         vivon.
                     </p>
                     <p>
@@ -19,11 +19,11 @@ const AboutArticlesEs = () => {
                     </p>
                     <p>
                         Ambaŭ elektoj post iom da tempo devus fari la samon:{' '}
-                        <b> akcepti sian vivon tia, kia ĝi estas.</b>
+                        <b> akcepti la sorton de la familianoj kaj akcepti sian vivon tia, kia ĝi estas.</b>
                     </p>
                     <p>
                         Tiuj, kiuj forkuris kaj rifuzis partopreni, devas reveni, rigardi, senti la ŝarĝon, vidi la
-                        malfacilan sorton sed ankaŭ senti la forton en la rompitaj animoj de paruloj. Kun profunda
+                        malfacilan sorton sed ankaŭ senti la forton en la rompitaj animoj de antaŭuloj. Kun profunda
                         respekto. En ĉiuj tiuj, kiuj travivis, por ke iliaj posteuloj vivu.
                     </p>
                     <p>
@@ -31,9 +31,9 @@ const AboutArticlesEs = () => {
                         sia infana amo enplektiĝi en la vivon de aliaj. Rigardi malfacilan sorton kaj senti la forton en
                         rompitaj animoj. Kun profunda respekto. En ĉiuj kiuj travivis por ke iliaj posteuloj vivu.
                     </p>
-                    <p>Kaj en ambaŭ kazoj, senti forton, kiu estis transdonita al ili de iliaj prapatroj.</p>
+                    <p>Kaj en ambaŭ kazoj, senti forton, kiu estis transdonita al ili de iliaj pragepatroj.</p>
                     <p>
-                        La liberiga frazo sonas enigme:{' '}
+                        La liberigaj frazoj sonas enigme:{' '}
                         <b>
                             Mi akceptas mian vivon tia kia ĝi estas.
                             <br />
@@ -46,9 +46,10 @@ const AboutArticlesEs = () => {
                     </p>
                     <p>Jes, Vi meritas pli, sed de tiu fonto vi ricevis tion, kio necesis kaj eblis.</p>
                     <p>
-                        Kaj sufiĉis ĉar vi venis al la mondo kaj vi vivas! Kaj ni vi respondecas prizorgi la resto. Kun
-                        nia decido akcepti la vivon tia kia ĝi estasi venas nia kapablo ricevi, nia malfermo al la mondo
-                        kaj al homoj, nia volemo rimarki kaj eltiri la helpon de la universo/dio/pli alta potenco
+                        Kaj sufiĉis ĉar vi venis al la mondo kaj vi vivas! Kaj vi respondecas prizorgi la reston.
+                        <br />
+                        Kun nia decido akcepti la vivon tia kia ĝi estas venas nia kapablo ricevi, nia malfermo al la
+                        mondo kaj al homoj, nia volemo rimarki kaj eltiri la helpon de la universo/dio/pli alta potenco
                     </p>
                     <p> Kaj tiam ni ricevas helpon abunde kaj diversmaniere.</p>
                     <p>
@@ -58,9 +59,8 @@ const AboutArticlesEs = () => {
                         kiu rimarkas, ke vi estas deprimita...
                     </p>
                     <p>
-                        Kaj tiel ĉiutage, dum la tuta vivo.Ofte ni preferas plendi. Kaj tie estas nia respondeco vidi,
-                        ke VIVO estas kun ni, por rimarki ĉiujn malgrandaj/grandaj donacoj de nia vivo. Kaj esti
-                        dankema.
+                        Kaj tie estas nia respondeco vidi, ke VIVO estas kun ni, por rimarki ĉiujn malgrandaj/grandaj
+                        donacoj de nia vivo. Kaj esti dankema.
                     </p>
                 </li>
                 <li className="accordion-li">
@@ -68,26 +68,26 @@ const AboutArticlesEs = () => {
                     <i></i>
                     <h2 className="accordion-title">Esti gepatro de plenkreskulo</h2>
                     <p>
-                        Foje, mia filino demandis min, kio por mi estas la plej komplika afero estante patrino.La
-                        respondo eble surprizis ŝin - la plej malfacilaj estis la konstantaj ŝanĝoj de infanoj, pro kio
-                        mi ankaŭ devis konstante ŝanĝi mian rolon kiel patrino kaj la manieron kiel mi komunikis kun
-                        ili. La manieron kiel mi estis parto de iliaj vivoj kaj ili de mia.
+                        Foje, mia filino demandis min, kio por mi estas la plej komplika afero en mia rolo de patrino.
+                        La respondo eble surprizis ŝin - la plej malfacilaj estis la konstantaj ŝanĝoj de infanoj, pro
+                        kio mi ankaŭ devis konstante ŝanĝi mian rolon kiel patrino kaj la manieron kiel mi komunikis kun
+                        ili.
                     </p>
                     <p>
-                        Animo de patrino kreiĝas jam en infaneco ricevante prizorgon kaj atenton de gepatrojn,
-                        onklinojn, avinojn, ĉiujn virinojn en via kulturo kaj klimato. Akceptante la rolon de virino kaj
-                        la rolon de patrineco. Tiu animo komence montriĝas tra malklara sento: &quot;iun tagon mi estos
+                        Animo de patrino kreiĝas jam en infaneco ricevante prizorgon kaj atenton de gepatroj, onklinoj,
+                        avinoj, ĉiujn virinoj en via kulturo kaj klimato. Akceptante la rolon de virino kaj la rolon de
+                        patrineco. Tiu animo komence montriĝas tra malklara sento: &quot;iun tagon mi estos
                         patrino&quot;.
                     </p>
                     <p>
-                        La sekva paŝo estas en partnereco, elekti la patron al viaj infanoj, senti vin sekura por
-                        komenci krei neston.
+                        La sekva paŝo estas partnereco, elekti la patron al viaj infanoj, senti vin sekura por komenci
+                        krei neston.
                     </p>
                     <p>
                         Vera preteco estas testita dum gravideco kaj naskiĝo kun la tuta ŝtormo de emocioj, hormonoj,
                         ŝanĝoj de vivkondiĉoj, novaj eblecoj kaj novaj limigoj.Ne estas simple liberigi parton de viaj
                         kapabloj kaj konscie doni ilin al tiu parto de vi, kiu elektas esti patrino. Rearanĝi
-                        prioritatojn. Kaj kiel ajn konfuziga tio, estas nur la komenco...
+                        prioritatojn. Kaj kiel ajn tio estas konfuziga, estas nur la komenco...
                     </p>
                     <p>
                         Mi rapide trairos la interesan parton de konstantaj ŝanĝoj: okupado de spaco de rampado,
@@ -101,16 +101,16 @@ const AboutArticlesEs = () => {
                     <p>
                         Necesas transformiĝi de la gepatro de infanoj al gepatro de plenkreskulo. Starigi novajn limojn.
                     </p>
-                    <p>Ĉesu esti maltrankvila gepatro, fariĝu fidinda gepatro.</p>
+                    <p>Ĉesu esti maltrankvila gepatro, fariĝi gepatro plena de fido.</p>
                     <p>
-                        Ĉesu esti gepatro, kiu donas konsilojn, fariĝu gepatro, kiu pacience subtenas la akiron de
-                        sperto.
+                        Ĉesu esti gepatro, kiu donas konsilojn, fariĝi gepatro, kiu pacience subtenas la akiron de
+                        spertoj.
                     </p>
                     <p>
                         Fariĝi gepatro, kiu fieras pri propra vivo kaj kiu fieras pri la personoj, kiuj kreiĝis de la
-                        iliaj &quot;eksaj&quot; infanoj.
+                        iliaj infanoj.
                     </p>
-                    <p>Ĉesi esti gepatro, kiu prizorgas infanojn. Rekomencu zorgi pri si mem. </p>
+                    <p>Ĉesi esti gepatro, kiu prizorgas infanojn. Rekomenci zorgi pri si mem. </p>
                     <p>
                         Kaj tiam niaj infanoj fariĝas kontentaj ĉar ni estas kontentaj. Gepatroj fidu al gefiloj.
                         Gefiloj respektu gepatrojn. Gefiloj fariĝas liberaj ĉar ni liberigas ilin, tuj kiam ili montras
@@ -118,16 +118,16 @@ const AboutArticlesEs = () => {
                     </p>
                     <p>
                         La transira periodo de gepatrado de infano ĝis gepatrado de plenkreskulo estas tre postulema kaj
-                        foje konfuza. Ĉarfoje infanoj petas de vi konsilon kaj poste koleriĝas pro la manko de fido.
-                        Foje ili serĉas konsolon, sed sen enmiksiĝo en ilia decidoj. Ni trejnas kie estas niaj novaj
-                        limoj. Ĉiuj estas konfuzitaj en tiu periodo.
+                        foje konfuza. Ĉar foje infanoj petas de vi konsilon kaj poste koleriĝas pro la manko de fido.
+                        Foje ili serĉas konsolon, sed sen enmiksiĝo en ilia decidoj. Ni ĉiuj trejnas kie estas niaj
+                        novaj limoj. Ĉiuj estas konfuzitaj en tiu periodo.
                     </p>
                     <p>
                         Tio estas ankaŭ komplika ĉar, foje, al gepatroj remalfermiĝas la spaco, tempo kaj energio por ke
-                        gepatroj revenu al sia propra, preskaŭ forgesita kaj foje forlasita vivo.
+                        gepatroj revenu al sia propra, preskaŭ forgesita kaj foje detruita vivo.
                     </p>
                     <p>
-                        Rigardi al sia vivo, rimarki kio estis prokrastita, neglektita, puŝita sub la tapiŝon... ĉar la
+                        Rigardi al sia vivo, rimarki kio estis prokrastita, neglektita, puŝita sub la tapiŝo... ĉar la
                         infanoj havis prioritaton.
                     </p>
                     <p>

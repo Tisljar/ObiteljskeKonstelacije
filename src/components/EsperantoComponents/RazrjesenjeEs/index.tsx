@@ -9,8 +9,8 @@ const RazrjesenjeEs = () => {
             <div className="row">
                 <div className="col-12">
                     <p>
-                        Kio estas la signoj de nia luktado kun la mondo kaj kun ni mem kaj por kiujn ni solvi solvi
-                        rigardante nian tutan familian sistemon:
+                        Kio estas signoj de nia luktado kun la mondo kiuj ni povas solvi rigardante nian tutan familian
+                        sistemon:
                     </p>
                     <ul>
                         <li>ripetitaj spertoj kaj malsukcesoj</li>
@@ -20,7 +20,7 @@ const RazrjesenjeEs = () => {
                         <li>malsanoj, daŭraj kaj simptomaj</li>
                         <li>depresio, toksomanioj kaj detruaj kondutoj</li>
                         <li>nesufiĉa kaj dubinda komerca sukceso</li>
-                        <li>iu ajn vivsituacio en kiu senteblas senpovo</li>
+                        <li>iu ajn vivsituacio en kiu senteblas senpoveco</li>
                         <li>sento de la bezono vivi alimaniere.</li>
                     </ul>
                     <p>Dum la familiaj konstelacioj, oni faras poziciigadon en jenaj paŝoj:</p>

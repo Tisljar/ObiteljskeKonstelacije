@@ -5,7 +5,7 @@ const KakoOdabratiEs = () => {
                 <h2>Kiel elekti metodon kaj konstelacion?</h2>
                 <p>
                     La konstelacia metodo aprezas tiun fajnan senton, kiu venas al la menso tra la korpo aŭ subite
-                    aperas kiel neantaŭvidita penso!. Iuj nomas ĝin intuicio, iuj nomas ĝin alie. Fidu vian senton
+                    aperas kiel neantaŭvidita penso! Iuj nomas ĝin intuicio, iuj nomas ĝin alie. Fidu vian senton
                     elektante terapion, la tempon por terapio kaj la personon, kiu partoprenos en la terapia laboro kun
                     vi, kiu milde gvidos vin tra la procezo de observado, kompreno, reliefo, integriĝo...
                 </p>

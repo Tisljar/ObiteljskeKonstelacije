@@ -24,7 +24,6 @@ const RadionicePageEs = () => {
             <main>
                 <div className="flex-container">
                     <TerminiEs />
-                    <KakoOdabratiEs />
                     <RazrjesenjeEs />
                     <RadioniceDodatnoEs />
                     <KakoPostavitiEs />

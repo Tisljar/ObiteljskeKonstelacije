@@ -2,12 +2,9 @@ const TerminiEs = () => {
     return (
         <>
             <section className="termini">
-                <h2>Horaro de laborrenkontiĝoj kaj renkontiĝoj</h2>
-                <p>Mi okazigas laborrenkontiĝojn unu aŭ dufoje monate, rete aŭ vive</p>
+                <h2>Laborrenkontiĝoj</h2>
                 <p>
-                    Datoj por individuaj sesioj, vivaj aŭ interrete, estas laŭ interkonsento.
-                    <br />
-                    Aplikoj estas retpoŝte<b> ankica.konstelacije@gmail.com </b>
+                    Aplikoj retpoŝte<b> ankica.konstelacije@gmail.com </b>
                 </p>
             </section>
         </>
