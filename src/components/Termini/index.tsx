@@ -50,7 +50,7 @@ const Termini = () => {
                     </li>
                 </ul>
                 <p>
-                    <b>Na radionici obiteljski raspetljavat ćemo:</b>
+                    <b>Na radionici obiteljskih konstelacija raspetljavat ćemo:</b>
                 </p>
                 <ul>
                     <li>ponavljajuća iskustva i neuspjesi</li>
