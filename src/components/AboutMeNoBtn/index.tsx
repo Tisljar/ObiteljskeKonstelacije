@@ -3,7 +3,7 @@ const AboutMeNoBtn = () => {
     return (
         <>
             <div className="row">
-                <h2>Pli mi</h2>
+                <h2>O meni</h2>
             </div>
             <div className="row">
                 <div className="col-md-12 col-td-5 col-4">

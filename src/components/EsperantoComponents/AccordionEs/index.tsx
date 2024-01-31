@@ -39,29 +39,32 @@ const AccordionEs = () => {
                     <p>
                         Krome, al familioj apartenas ankaŭ ĉiuj, kiuj grave influis al la sorto de la familio, kiuj
                         subtenis aŭ savis vivojn:
+                        <ul>
+                            <li>adoptitaj gepatroj</li>
+                            <li>personoj kiuj grave helpis kaj subtenis la familion age, materiale kaj spirite</li>
+                        </ul>
                     </p>
-                    <ul>
-                        <li>adoptitaj gepatroj</li>
-                        <li>personoj kiuj grave helpis kaj subtenis la familion age, materiale kaj spirite</li>
-                    </ul>
+
                     <p>
                         Sed ankaŭ tiuj, kiuj forprenis vivon: viktimoj kaj viktigantoj apartenas kaj al la familio de la
                         viktimo kaj al la familio de la viktiganto. Oni devas agnoski ilian ekziston kaj rekoni ilian
                         influon al la ambaŭ familioj.
                     </p>
-                    <p>Grava influo al la familio venas de familianoj kiuj „mankas“:</p>
-                    <ul>
-                        <li>familianoj kiuj mortis tro frue</li>
-                        <li>familianoj kiuj elmigris aŭ forlasis la familion</li>
-                        <li>familianoj kiuj estas neitaj aŭ kaŝitaj pro ia honto</li>
-                        <li>nenaskitaj infanoj</li>
-                        <li>ekstergeedzaj infanoj</li>
-                        <li>mense aŭ korpe handikapitaj</li>
-                        <li>fraŭlaj partneroj</li>
-                        <li>signifaj antaŭaj partneroj de gepatroj</li>
-                        <li>homoj kiuj iel embarasis la familion kaj la familio hontas pri ili</li>
-                        <li>viktimoj kaj krimintoj...</li>
-                    </ul>
+                    <p>
+                        Grava influo al la familio venas de familianoj kiuj „mankas“:
+                        <ul>
+                            <li>familianoj kiuj mortis tro frue</li>
+                            <li>familianoj kiuj elmigris aŭ forlasis la familion</li>
+                            <li>familianoj kiuj estas neitaj aŭ kaŝitaj pro ia honto</li>
+                            <li>nenaskitaj infanoj</li>
+                            <li>ekstergeedzaj infanoj</li>
+                            <li>mense aŭ korpe handikapitaj</li>
+                            <li>fraŭlaj partneroj</li>
+                            <li>signifaj antaŭaj partneroj de gepatroj</li>
+                            <li>homoj kiuj iel embarasis la familion kaj la familio hontas pri ili</li>
+                            <li>viktimoj kaj krimintoj...</li>
+                        </ul>
+                    </p>
                     <p>
                         Al la fa familio ankaŭ apartenas subpremitaj emocioj ligitaj al signifaj okazaĵoj kiel milito,
                         malsato, malriĉeco, ŝtelo aŭ nemeritita akiro de posedaĵo, forlaso de naskloko kaj movigado al
