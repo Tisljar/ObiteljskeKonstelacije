@@ -3,12 +3,21 @@ const VrsteKonstalacija = () => {
         <>
             <div className="row">
                 <div className="col-12">
-                    <h2>Vrste Konstelacija</h2>
-                    <p>Konstelacijska metoda započela se koristiti za osobne i obiteljske zapetljaje.</p>
+                    <h2>Poslovne konstelacije</h2>
                     <p>
-                        Uskoro je zamječeno da princip pripadanja i poretka djeluje i u drugim sustavima.Tako su se
-                        razvile sistemske konstelacije, poslovne konstelacije, astrološke konstelacije, .. Mnogi
-                        terapeuti kroz svoje metode provlače i osnovne konstelacijske postavke i alate.
+                        Teme poslovnih konstelacija je dinamika poslovanja, a glavni akteri su: vlasnik, firma,
+                        zaposlenici, klijenti, cilj, uspjeh, vizija, misija, odjeli...
+                    </p>
+                    <p>
+                        Na individualnom nivou razmatraju se i osobni ciljevi i motivacija, zapreke ka ostvarenju
+                        osobnih i poslovnih ciljeva i novac, kao materijalni dokaz poslovnog uspjeha.
+                    </p>
+                    <p>
+                        Svi ti elementi i dinamika slijedi osnovne sistemske zakone:
+                        <ul>
+                            <li>pripadanje i energija koja iz toga proizlazi</li>
+                            <li>poredak, odnosno struktura, hijerarhija i odgovornost.</li>
+                        </ul>
                     </p>
                 </div>
             </div>

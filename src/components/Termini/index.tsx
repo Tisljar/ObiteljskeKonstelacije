@@ -3,7 +3,10 @@ const Termini = () => {
         <>
             <section className="termini">
                 <h2>Raspored radionica i susreta</h2>
-                <p>Radionice održavam grupno ili individualno, on-line ili uživo</p>
+                <p>
+                    Postavljanje konstelacija održava se grupno na radionicama ili kroz individualne susrete, online ili
+                    uživo.
+                </p>
                 <ul>
                     <li>
                         <p>
@@ -27,8 +30,8 @@ const Termini = () => {
                     </li>
                     <li>
                         <p>
-                            <b>Obiteljske konstelacije - grupna radionica uživo: </b>18.2.2024. 14:00-19:00 na adresi:{' '}
-                            <b>Nemčićeva 2, Zagreb, Apolon Centar</b>
+                            <b>Obiteljske konstelacije - grupna radionica uživo: </b>18.2.2024. 14:00-19:00 <br /> na
+                            adresi: <b>Nemčićeva 2, Zagreb, Apolon Centar</b>
                         </p>
                         <p>
                             Prijave na radionice na:<b> ankica.konstelacije@gmail.com</b>
@@ -36,8 +39,8 @@ const Termini = () => {
                     </li>
                     <li>
                         <p>
-                            <b>Poslovne konstelacije - grupna radionica uživo: </b>25.2.2024. 14:00-19:00 na adresi:{' '}
-                            <b>Nemčićeva 2, Zagreb, Apolon Centar</b>
+                            <b>Poslovne konstelacije - grupna radionica uživo: </b>25.2.2024. 14:00-19:00 <br /> na
+                            adresi: <b>Nemčićeva 2, Zagreb, Apolon Centar</b>
                         </p>
                         <p>
                             Prijave na radionice na:<b> ankica.konstelacije@gmail.com</b>
@@ -45,7 +48,7 @@ const Termini = () => {
                     </li>
                     <li>
                         <p>
-                            <b>Individualne konstelacije po dogovoru!</b>
+                            <b>Individualne konstelacije po dogovoru, online ili uživo.</b>
                         </p>
                     </li>
                 </ul>

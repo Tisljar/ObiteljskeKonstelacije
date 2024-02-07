@@ -7,7 +7,7 @@ const ObiteljskeKonstalacije = () => {
         <>
             <div className="row">
                 <div className="col-md-12 col-td-6 col-7">
-                    <h1>Što su obiteljske konstelacije?</h1>
+                    <h1>Što su konstelacije?</h1>
                     <p>
                         Osnivač metode obiteljskih ili sistemskih konstelacija, Bert Hellinger u ovoj metodi uspješno je
                         primijenio principe psihologije i duhovnosti te omogućio dublji uvid u složene sustave
@@ -20,10 +20,16 @@ const ObiteljskeKonstalacije = () => {
                         odvija svojim punim potencijalom.
                     </p>
                     <p>
-                        Na obiteljskim konstelacijama ćete dobiti uvid zašto je do sada nešto bilo i kako iz prošlosti
-                        preuzeti mudrost i snagu za ostvarenje ciljeva u budućnosti.
+                        Na obiteljskim konstelacijama ćete dobiti uvid u obiteljsku dinamiku, zašto je do sada nešto
+                        bilo i kako iz prošlosti preuzeti mudrost i snagu za ostvarenje ciljeva u budućnosti.
                     </p>
-                    <p>Ova metoda najčešće se primjenjuje na radionicama ali je moguć i individualni rad.</p>
+                    <p>
+                        Na poslovnim konstelacijama ćete dobiti uvid u dinamiku pojmova vezanih uz poslovne teme:
+                        vlasnik, klijent, uspjeh, novac, svrha...
+                    </p>
+                    <p>
+                        Ova metoda primjenjuje se na grupnim radionicama ali je moguć i individualni rad, uživo i online
+                    </p>
                     <Link to={'/konstalacije'}>
                         <button className="md-padding-bottom btn-default">Saznajte više</button>
                     </Link>

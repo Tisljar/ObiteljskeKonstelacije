@@ -24,8 +24,8 @@ const RadionicePage = () => {
             <main>
                 <div className="flex-container">
                     <Termini />
-                    <KakoOdabrati />
-                    <Razrjesenje />
+                    {/* <KakoOdabrati /> */}
+                    {/* <Razrjesenje /> */}
                     <RadioniceDodatno />
                     <KakoPostaviti />
                     <EmailMe />

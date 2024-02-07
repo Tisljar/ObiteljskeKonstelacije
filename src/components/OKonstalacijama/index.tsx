@@ -5,14 +5,14 @@ const OKonstalacijama = () => {
     return (
         <>
             <div className="row">
-                <h2>Što su obiteljske konstelacije?</h2>
+                <h2>Što su konstelacije?</h2>
             </div>
             <div className="row">
                 <div className="col-md-12 col-td-6 col-7">
                     <p>
                         Osnivač metode obiteljskih ili sistemskih konstelacija, Bert Hellinger u ovoj metodi uspješno je
-                        primijenio principe psihologije, duhovnosti i tradicija afričkog šamanizma te omogućio dublji
-                        uvid u složene sustave međuljudskih odnosa.
+                        primijenio principe psihologije i duhovnosti te omogućio dublji uvid u složene sustave
+                        međuljudskih odnosa.
                     </p>
                     <p>
                         Osnovna postavka ove metode je da u obitelji, kao i u svim drugim sustavima kojima pripadamo,
@@ -21,13 +21,15 @@ const OKonstalacijama = () => {
                         odvija svojim punim potencijalom.
                     </p>
                     <p>
-                        Međutim, neki događaji mogu privremeno poremetiti poredak ljubavi. Iscjeljenje i oporavak od
-                        traume sustava i obitelji odvija se kroz emocionalne procese članova, ponekad i kroz više
-                        generacija.
+                        Na obiteljskim konstelacijama ćete dobiti uvid u obiteljsku dinamiku, zašto je do sada nešto
+                        bilo i kako iz prošlosti preuzeti mudrost i snagu za ostvarenje ciljeva u budućnosti.
                     </p>
                     <p>
-                        Iako toga nismo uvijek svjesni, u nama i kroz nas žive naši preci: njihova mudrost, iskustva ali
-                        i patnje. Sve dok naši preci pate unutar nas, ne možemo biti stvarno sretni.
+                        Na poslovnim konstelacijama ćete dobiti uvid u dinamiku pojmova vezanih uz poslovne teme:
+                        vlasnik, klijent, uspjeh, novac, svrha...
+                    </p>
+                    <p>
+                        Ova metoda primjenjuje se na grupnim radionicama ali je moguć i individualni rad, uživo i online
                     </p>
                 </div>
                 <div className="col-md-12 col-td-1 col-1"></div>

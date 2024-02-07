@@ -17,12 +17,6 @@ const Navbar = () => {
             </label>
             <ul className="menu">
                 <li>
-                    <Link to={'/about'} className="link">
-                        O Meni
-                    </Link>
-                </li>
-
-                <li>
                     <Link to={'/konstalacije'} className="link">
                         Obiteljske konstelacije
                     </Link>
@@ -30,6 +24,11 @@ const Navbar = () => {
                 <li>
                     <Link to={'/radionice'} className="link">
                         Radionice i susreti
+                    </Link>
+                </li>
+                <li>
+                    <Link to={'/about'} className="link">
+                        O Meni
                     </Link>
                 </li>
                 <li>
